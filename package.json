@@ -1,0 +1,23 @@
+{
+  "name": "k6-performance-portfolio",
+  "version": "1.0.0",
+  "description": "Performance testing portfolio using k6 — load, stress, spike, and soak test scenarios",
+  "main": "index.js",
+  "scripts": {
+    "load-test": "k6 run scripts/load-test.js",
+    "stress-test": "k6 run scripts/stress-test.js",
+    "spike-test": "k6 run scripts/spike-test.js",
+    "soak-test": "k6 run scripts/soak-test.js"
+  },
+  "keywords": [
+    "k6",
+    "performance-testing",
+    "load-testing",
+    "stress-testing"
+  ],
+  "author": "Yusfi Krismon Valas",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
