@@ -1,0 +1,4502 @@
+[
+  {
+    "firstname": "Teguh",
+    "lastname": "Triyanto",
+    "totalprice": 196,
+    "depositpaid": true,
+    "checkin": "2025-01-03",
+    "checkout": "2025-01-13",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Qodri",
+    "lastname": "Lutfiani",
+    "totalprice": 112,
+    "depositpaid": true,
+    "checkin": "2025-08-06",
+    "checkout": "2025-08-19",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Hafiz",
+    "lastname": "Iskandar",
+    "totalprice": 230,
+    "depositpaid": true,
+    "checkin": "2025-03-01",
+    "checkout": "2025-03-09",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Eko",
+    "lastname": "Subagyo",
+    "totalprice": 1135,
+    "depositpaid": false,
+    "checkin": "2025-11-01",
+    "checkout": "2025-11-09",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Sinta",
+    "lastname": "Harahap",
+    "totalprice": 480,
+    "depositpaid": false,
+    "checkin": "2025-02-07",
+    "checkout": "2025-02-08",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Putri",
+    "lastname": "Harahap",
+    "totalprice": 1039,
+    "depositpaid": false,
+    "checkin": "2025-03-15",
+    "checkout": "2025-03-22",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Hana",
+    "lastname": "Suryadi",
+    "totalprice": 1454,
+    "depositpaid": true,
+    "checkin": "2025-07-20",
+    "checkout": "2025-08-01",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Vicky",
+    "lastname": "Siregar",
+    "totalprice": 730,
+    "depositpaid": true,
+    "checkin": "2025-06-10",
+    "checkout": "2025-06-12",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Wibowo",
+    "totalprice": 898,
+    "depositpaid": true,
+    "checkin": "2025-12-09",
+    "checkout": "2025-12-20",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Fitri",
+    "lastname": "Hutapea",
+    "totalprice": 1731,
+    "depositpaid": false,
+    "checkin": "2025-08-10",
+    "checkout": "2025-08-14",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Ujang",
+    "lastname": "Tarigan",
+    "totalprice": 602,
+    "depositpaid": false,
+    "checkin": "2025-01-07",
+    "checkout": "2025-01-14",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Prima",
+    "lastname": "Nugroho",
+    "totalprice": 964,
+    "depositpaid": false,
+    "checkin": "2025-06-24",
+    "checkout": "2025-07-01",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Pandu",
+    "lastname": "Firmansyah",
+    "totalprice": 1575,
+    "depositpaid": true,
+    "checkin": "2025-05-02",
+    "checkout": "2025-05-08",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Arif",
+    "lastname": "Mulyadi",
+    "totalprice": 846,
+    "depositpaid": true,
+    "checkin": "2025-07-07",
+    "checkout": "2025-07-13",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Bagas",
+    "lastname": "Subagyo",
+    "totalprice": 520,
+    "depositpaid": false,
+    "checkin": "2025-01-06",
+    "checkout": "2025-01-11",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Nadia",
+    "lastname": "Sitepu",
+    "totalprice": 146,
+    "depositpaid": true,
+    "checkin": "2025-09-28",
+    "checkout": "2025-10-09",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Vicky",
+    "lastname": "Firmansyah",
+    "totalprice": 1330,
+    "depositpaid": true,
+    "checkin": "2025-02-08",
+    "checkout": "2025-02-19",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Bambang",
+    "lastname": "Purnama",
+    "totalprice": 587,
+    "depositpaid": false,
+    "checkin": "2025-05-18",
+    "checkout": "2025-05-24",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Tarigan",
+    "totalprice": 1123,
+    "depositpaid": true,
+    "checkin": "2025-06-23",
+    "checkout": "2025-07-04",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Dewi",
+    "lastname": "Maulana",
+    "totalprice": 1345,
+    "depositpaid": false,
+    "checkin": "2025-03-07",
+    "checkout": "2025-03-08",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Reza",
+    "lastname": "Maulana",
+    "totalprice": 425,
+    "depositpaid": false,
+    "checkin": "2025-10-06",
+    "checkout": "2025-10-08",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Julia",
+    "lastname": "Triyanto",
+    "totalprice": 410,
+    "depositpaid": false,
+    "checkin": "2025-04-21",
+    "checkout": "2025-05-02",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Pandu",
+    "lastname": "Qomarudin",
+    "totalprice": 901,
+    "depositpaid": false,
+    "checkin": "2025-05-07",
+    "checkout": "2025-05-08",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Zahra",
+    "lastname": "Setiawan",
+    "totalprice": 1823,
+    "depositpaid": true,
+    "checkin": "2025-08-20",
+    "checkout": "2025-09-03",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Surya",
+    "lastname": "Purba",
+    "totalprice": 1044,
+    "depositpaid": true,
+    "checkin": "2025-05-24",
+    "checkout": "2025-06-05",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Ayu",
+    "lastname": "Tarigan",
+    "totalprice": 133,
+    "depositpaid": true,
+    "checkin": "2025-03-04",
+    "checkout": "2025-03-12",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Umar",
+    "lastname": "Hidayat",
+    "totalprice": 165,
+    "depositpaid": true,
+    "checkin": "2025-01-09",
+    "checkout": "2025-01-21",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Dewi",
+    "lastname": "Fatahillah",
+    "totalprice": 288,
+    "depositpaid": true,
+    "checkin": "2025-05-05",
+    "checkout": "2025-05-16",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Galih",
+    "lastname": "Bangun",
+    "totalprice": 1892,
+    "depositpaid": true,
+    "checkin": "2025-09-23",
+    "checkout": "2025-09-25",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Rohman",
+    "totalprice": 1160,
+    "depositpaid": false,
+    "checkin": "2025-08-19",
+    "checkout": "2025-09-05",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Erwin",
+    "lastname": "Wahyudi",
+    "totalprice": 112,
+    "depositpaid": false,
+    "checkin": "2025-02-24",
+    "checkout": "2025-03-02",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Rudi",
+    "lastname": "Setiawan",
+    "totalprice": 1069,
+    "depositpaid": true,
+    "checkin": "2025-12-14",
+    "checkout": "2025-12-19",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Kristianto",
+    "totalprice": 577,
+    "depositpaid": false,
+    "checkin": "2025-12-12",
+    "checkout": "2025-12-14",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Marwan",
+    "lastname": "Simanjuntak",
+    "totalprice": 182,
+    "depositpaid": false,
+    "checkin": "2025-05-19",
+    "checkout": "2025-05-21",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Ilham",
+    "lastname": "Manurung",
+    "totalprice": 524,
+    "depositpaid": false,
+    "checkin": "2025-07-02",
+    "checkout": "2025-07-15",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Reza",
+    "lastname": "Kusuma",
+    "totalprice": 893,
+    "depositpaid": false,
+    "checkin": "2025-12-14",
+    "checkout": "2025-12-15",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Vera",
+    "lastname": "Firmansyah",
+    "totalprice": 1017,
+    "depositpaid": true,
+    "checkin": "2025-08-18",
+    "checkout": "2025-08-25",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Jefri",
+    "lastname": "Valentino",
+    "totalprice": 940,
+    "depositpaid": true,
+    "checkin": "2025-08-28",
+    "checkout": "2025-09-10",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Elsa",
+    "lastname": "Kristianto",
+    "totalprice": 849,
+    "depositpaid": false,
+    "checkin": "2025-01-24",
+    "checkout": "2025-02-01",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Vino",
+    "lastname": "Maulana",
+    "totalprice": 1098,
+    "depositpaid": true,
+    "checkin": "2025-09-18",
+    "checkout": "2025-09-23",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Hadi",
+    "lastname": "Kristianto",
+    "totalprice": 1187,
+    "depositpaid": true,
+    "checkin": "2025-09-28",
+    "checkout": "2025-10-14",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Pandu",
+    "lastname": "Xaverius",
+    "totalprice": 1214,
+    "depositpaid": true,
+    "checkin": "2025-09-03",
+    "checkout": "2025-09-10",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Nando",
+    "lastname": "Wibowo",
+    "totalprice": 923,
+    "depositpaid": true,
+    "checkin": "2025-06-05",
+    "checkout": "2025-06-15",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Yola",
+    "lastname": "Maulana",
+    "totalprice": 1328,
+    "depositpaid": true,
+    "checkin": "2025-10-05",
+    "checkout": "2025-10-09",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Nusantara",
+    "totalprice": 897,
+    "depositpaid": false,
+    "checkin": "2025-02-06",
+    "checkout": "2025-02-15",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Vicky",
+    "lastname": "Laksmana",
+    "totalprice": 1589,
+    "depositpaid": false,
+    "checkin": "2025-08-12",
+    "checkout": "2025-08-23",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Agus",
+    "lastname": "Santoso",
+    "totalprice": 495,
+    "depositpaid": false,
+    "checkin": "2025-08-11",
+    "checkout": "2025-08-15",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Putri",
+    "lastname": "Cahyono",
+    "totalprice": 1084,
+    "depositpaid": false,
+    "checkin": "2025-09-06",
+    "checkout": "2025-09-09",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Cahyo",
+    "lastname": "Gunawan",
+    "totalprice": 1880,
+    "depositpaid": false,
+    "checkin": "2025-04-07",
+    "checkout": "2025-04-20",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Arif",
+    "lastname": "Situmorang",
+    "totalprice": 1646,
+    "depositpaid": true,
+    "checkin": "2025-08-28",
+    "checkout": "2025-09-04",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Layla",
+    "lastname": "Kusuma",
+    "totalprice": 1854,
+    "depositpaid": false,
+    "checkin": "2025-08-08",
+    "checkout": "2025-08-12",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Iskandar",
+    "totalprice": 1984,
+    "depositpaid": false,
+    "checkin": "2025-08-19",
+    "checkout": "2025-08-27",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Putri",
+    "lastname": "Nusantara",
+    "totalprice": 414,
+    "depositpaid": false,
+    "checkin": "2025-07-07",
+    "checkout": "2025-07-18",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Yuni",
+    "lastname": "Saputra",
+    "totalprice": 1913,
+    "depositpaid": true,
+    "checkin": "2025-06-16",
+    "checkout": "2025-07-01",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Zahra",
+    "lastname": "Zulkarnain",
+    "totalprice": 1555,
+    "depositpaid": true,
+    "checkin": "2025-10-04",
+    "checkout": "2025-10-11",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Dimas",
+    "lastname": "Hermawan",
+    "totalprice": 1706,
+    "depositpaid": true,
+    "checkin": "2025-07-09",
+    "checkout": "2025-07-14",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Sigit",
+    "lastname": "Mahardika",
+    "totalprice": 1749,
+    "depositpaid": false,
+    "checkin": "2025-08-21",
+    "checkout": "2025-08-27",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Xena",
+    "lastname": "Cahyono",
+    "totalprice": 822,
+    "depositpaid": false,
+    "checkin": "2025-03-10",
+    "checkout": "2025-03-18",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Rina",
+    "lastname": "Mahardika",
+    "totalprice": 1715,
+    "depositpaid": true,
+    "checkin": "2025-11-20",
+    "checkout": "2025-11-27",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Umar",
+    "lastname": "Saputra",
+    "totalprice": 1799,
+    "depositpaid": false,
+    "checkin": "2025-07-15",
+    "checkout": "2025-07-26",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Xena",
+    "lastname": "Bangun",
+    "totalprice": 1328,
+    "depositpaid": false,
+    "checkin": "2025-12-04",
+    "checkout": "2025-12-17",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Andi",
+    "lastname": "Triyanto",
+    "totalprice": 1341,
+    "depositpaid": true,
+    "checkin": "2025-09-18",
+    "checkout": "2025-09-22",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Miko",
+    "lastname": "Gunadi",
+    "totalprice": 1601,
+    "depositpaid": true,
+    "checkin": "2025-03-04",
+    "checkout": "2025-03-13",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Jefri",
+    "lastname": "Rohman",
+    "totalprice": 1557,
+    "depositpaid": false,
+    "checkin": "2025-10-01",
+    "checkout": "2025-10-11",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Luthfi",
+    "lastname": "Cahyono",
+    "totalprice": 871,
+    "depositpaid": false,
+    "checkin": "2025-05-18",
+    "checkout": "2025-05-24",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Pandu",
+    "lastname": "Jamaludin",
+    "totalprice": 1340,
+    "depositpaid": false,
+    "checkin": "2025-03-13",
+    "checkout": "2025-03-21",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Teguh",
+    "lastname": "Rohman",
+    "totalprice": 693,
+    "depositpaid": false,
+    "checkin": "2025-07-05",
+    "checkout": "2025-07-08",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Fitri",
+    "lastname": "Pratama",
+    "totalprice": 1134,
+    "depositpaid": true,
+    "checkin": "2025-01-25",
+    "checkout": "2025-02-09",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Yanti",
+    "lastname": "Santoso",
+    "totalprice": 1031,
+    "depositpaid": false,
+    "checkin": "2025-12-24",
+    "checkout": "2026-01-03",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Hana",
+    "lastname": "Jamaludin",
+    "totalprice": 459,
+    "depositpaid": false,
+    "checkin": "2025-05-27",
+    "checkout": "2025-06-05",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Vino",
+    "lastname": "Sanjaya",
+    "totalprice": 560,
+    "depositpaid": true,
+    "checkin": "2025-02-25",
+    "checkout": "2025-03-10",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Lutfi",
+    "lastname": "Saputra",
+    "totalprice": 1081,
+    "depositpaid": true,
+    "checkin": "2025-09-11",
+    "checkout": "2025-09-13",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Zahra",
+    "lastname": "Setiawan",
+    "totalprice": 1154,
+    "depositpaid": false,
+    "checkin": "2025-11-12",
+    "checkout": "2025-11-13",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Hartanto",
+    "totalprice": 1042,
+    "depositpaid": true,
+    "checkin": "2025-02-12",
+    "checkout": "2025-02-14",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Reza",
+    "lastname": "Tarigan",
+    "totalprice": 791,
+    "depositpaid": true,
+    "checkin": "2025-04-26",
+    "checkout": "2025-05-02",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Indah",
+    "lastname": "Suryadi",
+    "totalprice": 1067,
+    "depositpaid": false,
+    "checkin": "2025-03-02",
+    "checkout": "2025-03-14",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Gita",
+    "lastname": "Rohman",
+    "totalprice": 1797,
+    "depositpaid": false,
+    "checkin": "2025-01-22",
+    "checkout": "2025-02-05",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Lestari",
+    "lastname": "Simatupang",
+    "totalprice": 852,
+    "depositpaid": true,
+    "checkin": "2025-10-04",
+    "checkout": "2025-10-13",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Wati",
+    "lastname": "Hermawan",
+    "totalprice": 510,
+    "depositpaid": false,
+    "checkin": "2025-10-23",
+    "checkout": "2025-11-09",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Zahra",
+    "lastname": "Tarigan",
+    "totalprice": 786,
+    "depositpaid": false,
+    "checkin": "2025-09-03",
+    "checkout": "2025-09-09",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Krisna",
+    "lastname": "Handoyo",
+    "totalprice": 286,
+    "depositpaid": true,
+    "checkin": "2025-03-06",
+    "checkout": "2025-03-12",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Dewi",
+    "lastname": "Bangun",
+    "totalprice": 331,
+    "depositpaid": false,
+    "checkin": "2025-11-15",
+    "checkout": "2025-11-25",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Vino",
+    "lastname": "Hartanto",
+    "totalprice": 1209,
+    "depositpaid": false,
+    "checkin": "2025-11-15",
+    "checkout": "2025-11-25",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Layla",
+    "lastname": "Sembiring",
+    "totalprice": 1720,
+    "depositpaid": false,
+    "checkin": "2025-07-07",
+    "checkout": "2025-07-17",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Ayu",
+    "lastname": "Sudirman",
+    "totalprice": 1014,
+    "depositpaid": true,
+    "checkin": "2025-02-15",
+    "checkout": "2025-02-18",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Lutfiani",
+    "totalprice": 1726,
+    "depositpaid": true,
+    "checkin": "2025-09-23",
+    "checkout": "2025-10-07",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Zulfa",
+    "lastname": "Sitepu",
+    "totalprice": 123,
+    "depositpaid": false,
+    "checkin": "2025-07-23",
+    "checkout": "2025-07-27",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Nando",
+    "lastname": "Junaedi",
+    "totalprice": 1798,
+    "depositpaid": false,
+    "checkin": "2025-06-21",
+    "checkout": "2025-07-04",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Hadi",
+    "lastname": "Setiawan",
+    "totalprice": 1309,
+    "depositpaid": false,
+    "checkin": "2025-01-10",
+    "checkout": "2025-01-14",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Olivia",
+    "lastname": "Iskandar",
+    "totalprice": 1945,
+    "depositpaid": false,
+    "checkin": "2025-02-19",
+    "checkout": "2025-03-04",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Qori",
+    "lastname": "Hartanto",
+    "totalprice": 278,
+    "depositpaid": false,
+    "checkin": "2025-08-20",
+    "checkout": "2025-08-25",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Marwan",
+    "lastname": "Dermawan",
+    "totalprice": 1055,
+    "depositpaid": false,
+    "checkin": "2025-10-17",
+    "checkout": "2025-10-20",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Tita",
+    "lastname": "Situmorang",
+    "totalprice": 976,
+    "depositpaid": false,
+    "checkin": "2025-11-13",
+    "checkout": "2025-11-22",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Marwan",
+    "lastname": "Cahyono",
+    "totalprice": 218,
+    "depositpaid": false,
+    "checkin": "2025-07-11",
+    "checkout": "2025-07-12",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Irawan",
+    "totalprice": 381,
+    "depositpaid": true,
+    "checkin": "2025-05-18",
+    "checkout": "2025-06-01",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Tari",
+    "lastname": "Valentino",
+    "totalprice": 296,
+    "depositpaid": false,
+    "checkin": "2025-07-23",
+    "checkout": "2025-08-05",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Yanti",
+    "lastname": "Hermawan",
+    "totalprice": 1961,
+    "depositpaid": true,
+    "checkin": "2025-06-19",
+    "checkout": "2025-06-23",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Surya",
+    "lastname": "Junaedi",
+    "totalprice": 893,
+    "depositpaid": false,
+    "checkin": "2025-11-23",
+    "checkout": "2025-11-27",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Miko",
+    "lastname": "Nurrohman",
+    "totalprice": 848,
+    "depositpaid": false,
+    "checkin": "2025-03-23",
+    "checkout": "2025-03-28",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Mega",
+    "lastname": "Effendi",
+    "totalprice": 842,
+    "depositpaid": true,
+    "checkin": "2025-07-22",
+    "checkout": "2025-08-04",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Qorina",
+    "lastname": "Lubis",
+    "totalprice": 1840,
+    "depositpaid": true,
+    "checkin": "2025-02-11",
+    "checkout": "2025-02-20",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Oktavian",
+    "totalprice": 293,
+    "depositpaid": false,
+    "checkin": "2025-08-10",
+    "checkout": "2025-08-16",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Yoga",
+    "lastname": "Maulana",
+    "totalprice": 1751,
+    "depositpaid": false,
+    "checkin": "2025-01-05",
+    "checkout": "2025-01-17",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Xena",
+    "lastname": "Sembiring",
+    "totalprice": 966,
+    "depositpaid": false,
+    "checkin": "2025-03-05",
+    "checkout": "2025-03-14",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Miko",
+    "lastname": "Purnama",
+    "totalprice": 863,
+    "depositpaid": true,
+    "checkin": "2025-02-21",
+    "checkout": "2025-03-04",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Irwan",
+    "lastname": "Purnama",
+    "totalprice": 102,
+    "depositpaid": true,
+    "checkin": "2025-02-23",
+    "checkout": "2025-02-27",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Reza",
+    "lastname": "Xaverius",
+    "totalprice": 815,
+    "depositpaid": true,
+    "checkin": "2025-08-21",
+    "checkout": "2025-09-06",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Indah",
+    "lastname": "Setiawan",
+    "totalprice": 1431,
+    "depositpaid": true,
+    "checkin": "2025-06-23",
+    "checkout": "2025-06-27",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Siti",
+    "lastname": "Valentino",
+    "totalprice": 1145,
+    "depositpaid": false,
+    "checkin": "2025-05-25",
+    "checkout": "2025-05-26",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Layla",
+    "lastname": "Wijaya",
+    "totalprice": 1410,
+    "depositpaid": true,
+    "checkin": "2025-04-10",
+    "checkout": "2025-04-21",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Winda",
+    "lastname": "Wijaya",
+    "totalprice": 599,
+    "depositpaid": false,
+    "checkin": "2025-05-13",
+    "checkout": "2025-05-27",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Wulan",
+    "lastname": "Utomo",
+    "totalprice": 1901,
+    "depositpaid": true,
+    "checkin": "2025-09-11",
+    "checkout": "2025-09-23",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Vicky",
+    "lastname": "Nusantara",
+    "totalprice": 289,
+    "depositpaid": true,
+    "checkin": "2025-10-23",
+    "checkout": "2025-10-25",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Vino",
+    "lastname": "Nasution",
+    "totalprice": 1506,
+    "depositpaid": true,
+    "checkin": "2025-12-16",
+    "checkout": "2025-12-22",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Dimas",
+    "lastname": "Gunawan",
+    "totalprice": 1644,
+    "depositpaid": true,
+    "checkin": "2025-05-09",
+    "checkout": "2025-05-13",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Qori",
+    "lastname": "Effendi",
+    "totalprice": 1352,
+    "depositpaid": true,
+    "checkin": "2025-04-26",
+    "checkout": "2025-05-04",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Joko",
+    "lastname": "Kurniawan",
+    "totalprice": 1656,
+    "depositpaid": true,
+    "checkin": "2025-10-03",
+    "checkout": "2025-10-10",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Surya",
+    "lastname": "Qomarudin",
+    "totalprice": 1997,
+    "depositpaid": true,
+    "checkin": "2025-07-08",
+    "checkout": "2025-07-19",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Vina",
+    "lastname": "Setiawan",
+    "totalprice": 1225,
+    "depositpaid": false,
+    "checkin": "2025-12-24",
+    "checkout": "2026-01-07",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Qori",
+    "lastname": "Bangun",
+    "totalprice": 1616,
+    "depositpaid": false,
+    "checkin": "2025-11-10",
+    "checkout": "2025-11-19",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Xena",
+    "lastname": "Xaverius",
+    "totalprice": 1200,
+    "depositpaid": false,
+    "checkin": "2025-10-15",
+    "checkout": "2025-10-21",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Nugroho",
+    "lastname": "Susanto",
+    "totalprice": 250,
+    "depositpaid": true,
+    "checkin": "2025-11-01",
+    "checkout": "2025-11-09",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Hendra",
+    "lastname": "Kamaludin",
+    "totalprice": 300,
+    "depositpaid": true,
+    "checkin": "2025-09-14",
+    "checkout": "2025-09-26",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Vina",
+    "lastname": "Ginting",
+    "totalprice": 266,
+    "depositpaid": true,
+    "checkin": "2025-11-20",
+    "checkout": "2025-11-26",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Gita",
+    "lastname": "Simanjuntak",
+    "totalprice": 676,
+    "depositpaid": true,
+    "checkin": "2025-10-19",
+    "checkout": "2025-10-28",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Julia",
+    "lastname": "Fatahillah",
+    "totalprice": 1028,
+    "depositpaid": true,
+    "checkin": "2025-06-14",
+    "checkout": "2025-06-21",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Miko",
+    "lastname": "Valentino",
+    "totalprice": 1362,
+    "depositpaid": false,
+    "checkin": "2025-12-25",
+    "checkout": "2025-12-26",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Gita",
+    "lastname": "Yudistira",
+    "totalprice": 1893,
+    "depositpaid": true,
+    "checkin": "2025-09-27",
+    "checkout": "2025-09-28",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Ani",
+    "lastname": "Simbolon",
+    "totalprice": 1006,
+    "depositpaid": false,
+    "checkin": "2025-11-15",
+    "checkout": "2025-11-22",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Arif",
+    "lastname": "Barus",
+    "totalprice": 1933,
+    "depositpaid": true,
+    "checkin": "2025-02-22",
+    "checkout": "2025-03-01",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Ratna",
+    "lastname": "Wijaya",
+    "totalprice": 1777,
+    "depositpaid": false,
+    "checkin": "2025-07-10",
+    "checkout": "2025-07-11",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Umar",
+    "lastname": "Simanjuntak",
+    "totalprice": 1565,
+    "depositpaid": true,
+    "checkin": "2025-07-26",
+    "checkout": "2025-08-05",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Mega",
+    "lastname": "Suryadi",
+    "totalprice": 1431,
+    "depositpaid": true,
+    "checkin": "2025-08-09",
+    "checkout": "2025-08-23",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Agus",
+    "lastname": "Utomo",
+    "totalprice": 1497,
+    "depositpaid": true,
+    "checkin": "2025-12-24",
+    "checkout": "2025-12-27",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Dodi",
+    "lastname": "Brahmana",
+    "totalprice": 1503,
+    "depositpaid": false,
+    "checkin": "2025-07-15",
+    "checkout": "2025-07-18",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Galih",
+    "lastname": "Budiman",
+    "totalprice": 353,
+    "depositpaid": false,
+    "checkin": "2025-03-19",
+    "checkout": "2025-03-23",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Ujang",
+    "lastname": "Simatupang",
+    "totalprice": 183,
+    "depositpaid": true,
+    "checkin": "2025-01-17",
+    "checkout": "2025-02-02",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Yoga",
+    "lastname": "Wahyudi",
+    "totalprice": 1741,
+    "depositpaid": true,
+    "checkin": "2025-09-04",
+    "checkout": "2025-09-07",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Pratama",
+    "totalprice": 442,
+    "depositpaid": true,
+    "checkin": "2025-06-22",
+    "checkout": "2025-07-06",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Bella",
+    "lastname": "Rahayu",
+    "totalprice": 1738,
+    "depositpaid": false,
+    "checkin": "2025-10-21",
+    "checkout": "2025-11-07",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Xena",
+    "lastname": "Valentino",
+    "totalprice": 233,
+    "depositpaid": false,
+    "checkin": "2025-03-19",
+    "checkout": "2025-03-28",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Lutfi",
+    "lastname": "Wijaya",
+    "totalprice": 441,
+    "depositpaid": false,
+    "checkin": "2025-12-10",
+    "checkout": "2025-12-16",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Luthfi",
+    "lastname": "Kristianto",
+    "totalprice": 1153,
+    "depositpaid": false,
+    "checkin": "2025-09-20",
+    "checkout": "2025-09-28",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Harahap",
+    "totalprice": 1147,
+    "depositpaid": true,
+    "checkin": "2025-05-03",
+    "checkout": "2025-05-06",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Vino",
+    "lastname": "Handoyo",
+    "totalprice": 1448,
+    "depositpaid": true,
+    "checkin": "2025-01-05",
+    "checkout": "2025-01-07",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Cahyo",
+    "lastname": "Hartanto",
+    "totalprice": 1599,
+    "depositpaid": true,
+    "checkin": "2025-09-11",
+    "checkout": "2025-09-23",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Kukuh",
+    "lastname": "Subagyo",
+    "totalprice": 152,
+    "depositpaid": false,
+    "checkin": "2025-11-16",
+    "checkout": "2025-11-26",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Bagas",
+    "lastname": "Adiputra",
+    "totalprice": 995,
+    "depositpaid": false,
+    "checkin": "2025-04-11",
+    "checkout": "2025-04-23",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Kukuh",
+    "lastname": "Nurrohman",
+    "totalprice": 905,
+    "depositpaid": false,
+    "checkin": "2025-01-24",
+    "checkout": "2025-02-02",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Nugroho",
+    "lastname": "Sanjaya",
+    "totalprice": 1936,
+    "depositpaid": true,
+    "checkin": "2025-04-16",
+    "checkout": "2025-04-23",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Miko",
+    "lastname": "Rohman",
+    "totalprice": 650,
+    "depositpaid": true,
+    "checkin": "2025-02-03",
+    "checkout": "2025-02-04",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Julia",
+    "lastname": "Qomarudin",
+    "totalprice": 1069,
+    "depositpaid": true,
+    "checkin": "2025-06-08",
+    "checkout": "2025-06-10",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Kurniawan",
+    "totalprice": 500,
+    "depositpaid": false,
+    "checkin": "2025-06-28",
+    "checkout": "2025-07-12",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Dina",
+    "lastname": "Cahyono",
+    "totalprice": 1103,
+    "depositpaid": false,
+    "checkin": "2025-06-04",
+    "checkout": "2025-06-09",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Fanny",
+    "lastname": "Irawan",
+    "totalprice": 929,
+    "depositpaid": true,
+    "checkin": "2025-01-22",
+    "checkout": "2025-02-04",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Zaki",
+    "lastname": "Nusantara",
+    "totalprice": 1294,
+    "depositpaid": true,
+    "checkin": "2025-05-07",
+    "checkout": "2025-05-21",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Yola",
+    "lastname": "Purba",
+    "totalprice": 1975,
+    "depositpaid": false,
+    "checkin": "2025-02-23",
+    "checkout": "2025-02-27",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Nadia",
+    "lastname": "Suryadi",
+    "totalprice": 1479,
+    "depositpaid": false,
+    "checkin": "2025-05-02",
+    "checkout": "2025-05-16",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Hana",
+    "lastname": "Sanjaya",
+    "totalprice": 580,
+    "depositpaid": true,
+    "checkin": "2025-10-10",
+    "checkout": "2025-10-18",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Bambang",
+    "lastname": "Kristianto",
+    "totalprice": 1623,
+    "depositpaid": false,
+    "checkin": "2025-12-08",
+    "checkout": "2025-12-20",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Vino",
+    "lastname": "Susanto",
+    "totalprice": 515,
+    "depositpaid": false,
+    "checkin": "2025-01-25",
+    "checkout": "2025-02-02",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Krisna",
+    "lastname": "Karo",
+    "totalprice": 775,
+    "depositpaid": true,
+    "checkin": "2025-05-27",
+    "checkout": "2025-06-04",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Zahra",
+    "lastname": "Barus",
+    "totalprice": 1270,
+    "depositpaid": true,
+    "checkin": "2025-02-01",
+    "checkout": "2025-02-06",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Yola",
+    "lastname": "Xaverius",
+    "totalprice": 860,
+    "depositpaid": false,
+    "checkin": "2025-09-12",
+    "checkout": "2025-09-17",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Sigit",
+    "lastname": "Purba",
+    "totalprice": 1202,
+    "depositpaid": true,
+    "checkin": "2025-05-19",
+    "checkout": "2025-06-04",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Fitri",
+    "lastname": "Simbolon",
+    "totalprice": 1204,
+    "depositpaid": false,
+    "checkin": "2025-06-04",
+    "checkout": "2025-06-14",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Puspita",
+    "lastname": "Wibowo",
+    "totalprice": 1463,
+    "depositpaid": true,
+    "checkin": "2025-07-06",
+    "checkout": "2025-07-16",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Qori",
+    "lastname": "Kurniawan",
+    "totalprice": 614,
+    "depositpaid": true,
+    "checkin": "2025-05-18",
+    "checkout": "2025-05-23",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Sanjaya",
+    "totalprice": 281,
+    "depositpaid": true,
+    "checkin": "2025-11-02",
+    "checkout": "2025-11-06",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Arif",
+    "lastname": "Sanjaya",
+    "totalprice": 1535,
+    "depositpaid": true,
+    "checkin": "2025-10-01",
+    "checkout": "2025-10-10",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Teguh",
+    "lastname": "Brahmana",
+    "totalprice": 1671,
+    "depositpaid": true,
+    "checkin": "2025-06-15",
+    "checkout": "2025-06-17",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Teguh",
+    "lastname": "Simbolon",
+    "totalprice": 1641,
+    "depositpaid": false,
+    "checkin": "2025-04-14",
+    "checkout": "2025-04-26",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Qorina",
+    "lastname": "Maulana",
+    "totalprice": 1357,
+    "depositpaid": false,
+    "checkin": "2025-03-24",
+    "checkout": "2025-04-10",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Nugroho",
+    "lastname": "Yudistira",
+    "totalprice": 1180,
+    "depositpaid": true,
+    "checkin": "2025-10-08",
+    "checkout": "2025-10-17",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Dodi",
+    "lastname": "Rohman",
+    "totalprice": 186,
+    "depositpaid": false,
+    "checkin": "2025-05-11",
+    "checkout": "2025-05-14",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Oscar",
+    "lastname": "Brahmana",
+    "totalprice": 1496,
+    "depositpaid": true,
+    "checkin": "2025-08-05",
+    "checkout": "2025-08-17",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Dina",
+    "lastname": "Mulyadi",
+    "totalprice": 1693,
+    "depositpaid": true,
+    "checkin": "2025-04-10",
+    "checkout": "2025-04-24",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Puspita",
+    "lastname": "Qomarudin",
+    "totalprice": 1694,
+    "depositpaid": true,
+    "checkin": "2025-10-28",
+    "checkout": "2025-11-08",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Wulan",
+    "lastname": "Panjaitan",
+    "totalprice": 276,
+    "depositpaid": false,
+    "checkin": "2025-03-12",
+    "checkout": "2025-03-17",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Tita",
+    "lastname": "Kristianto",
+    "totalprice": 200,
+    "depositpaid": true,
+    "checkin": "2025-02-10",
+    "checkout": "2025-02-13",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Irwan",
+    "lastname": "Situmorang",
+    "totalprice": 836,
+    "depositpaid": false,
+    "checkin": "2025-04-14",
+    "checkout": "2025-04-20",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Ratna",
+    "lastname": "Xaverius",
+    "totalprice": 1714,
+    "depositpaid": false,
+    "checkin": "2025-07-11",
+    "checkout": "2025-07-18",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Erwin",
+    "lastname": "Pratama",
+    "totalprice": 778,
+    "depositpaid": true,
+    "checkin": "2025-12-16",
+    "checkout": "2025-12-17",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Dina",
+    "lastname": "Triyanto",
+    "totalprice": 472,
+    "depositpaid": false,
+    "checkin": "2025-05-19",
+    "checkout": "2025-05-27",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Siti",
+    "lastname": "Purnama",
+    "totalprice": 840,
+    "depositpaid": true,
+    "checkin": "2025-06-21",
+    "checkout": "2025-07-06",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Zulfa",
+    "lastname": "Utomo",
+    "totalprice": 994,
+    "depositpaid": false,
+    "checkin": "2025-08-01",
+    "checkout": "2025-08-06",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Okta",
+    "lastname": "Dermawan",
+    "totalprice": 1121,
+    "depositpaid": true,
+    "checkin": "2025-05-05",
+    "checkout": "2025-05-10",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Okta",
+    "lastname": "Rahayu",
+    "totalprice": 527,
+    "depositpaid": false,
+    "checkin": "2025-03-12",
+    "checkout": "2025-03-16",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Wahyu",
+    "lastname": "Mahardika",
+    "totalprice": 1449,
+    "depositpaid": false,
+    "checkin": "2025-10-25",
+    "checkout": "2025-11-01",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Dimas",
+    "lastname": "Hidayat",
+    "totalprice": 524,
+    "depositpaid": false,
+    "checkin": "2025-05-15",
+    "checkout": "2025-05-19",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Salma",
+    "lastname": "Nasution",
+    "totalprice": 1801,
+    "depositpaid": true,
+    "checkin": "2025-09-05",
+    "checkout": "2025-09-12",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Rina",
+    "lastname": "Sinaga",
+    "totalprice": 1436,
+    "depositpaid": true,
+    "checkin": "2025-02-28",
+    "checkout": "2025-03-09",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Pandu",
+    "lastname": "Kristianto",
+    "totalprice": 265,
+    "depositpaid": false,
+    "checkin": "2025-08-19",
+    "checkout": "2025-08-28",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Rangga",
+    "lastname": "Rohman",
+    "totalprice": 1364,
+    "depositpaid": false,
+    "checkin": "2025-04-19",
+    "checkout": "2025-04-25",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Julia",
+    "lastname": "Wijaya",
+    "totalprice": 504,
+    "depositpaid": true,
+    "checkin": "2025-02-11",
+    "checkout": "2025-02-22",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Vino",
+    "lastname": "Purba",
+    "totalprice": 102,
+    "depositpaid": false,
+    "checkin": "2025-03-26",
+    "checkout": "2025-04-01",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Irwan",
+    "lastname": "Brahmana",
+    "totalprice": 1644,
+    "depositpaid": true,
+    "checkin": "2025-04-15",
+    "checkout": "2025-04-23",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Indah",
+    "lastname": "Wahyudi",
+    "totalprice": 200,
+    "depositpaid": false,
+    "checkin": "2025-02-03",
+    "checkout": "2025-02-17",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Rangga",
+    "lastname": "Utomo",
+    "totalprice": 1711,
+    "depositpaid": true,
+    "checkin": "2025-08-13",
+    "checkout": "2025-08-26",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Fanny",
+    "lastname": "Perangin",
+    "totalprice": 1470,
+    "depositpaid": false,
+    "checkin": "2025-09-16",
+    "checkout": "2025-09-23",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Siti",
+    "lastname": "Wahyudi",
+    "totalprice": 760,
+    "depositpaid": false,
+    "checkin": "2025-06-24",
+    "checkout": "2025-07-01",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Fanny",
+    "lastname": "Perangin",
+    "totalprice": 245,
+    "depositpaid": true,
+    "checkin": "2025-07-26",
+    "checkout": "2025-08-06",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Layla",
+    "lastname": "Cahyono",
+    "totalprice": 1046,
+    "depositpaid": true,
+    "checkin": "2025-06-02",
+    "checkout": "2025-06-04",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Erwin",
+    "lastname": "Panjaitan",
+    "totalprice": 413,
+    "depositpaid": false,
+    "checkin": "2025-09-22",
+    "checkout": "2025-10-07",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Mira",
+    "lastname": "Harahap",
+    "totalprice": 176,
+    "depositpaid": false,
+    "checkin": "2025-02-09",
+    "checkout": "2025-02-12",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Winda",
+    "lastname": "Barus",
+    "totalprice": 672,
+    "depositpaid": false,
+    "checkin": "2025-04-16",
+    "checkout": "2025-04-19",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Mira",
+    "lastname": "Brahmana",
+    "totalprice": 575,
+    "depositpaid": false,
+    "checkin": "2025-09-27",
+    "checkout": "2025-10-02",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Gunawan",
+    "lastname": "Laksmana",
+    "totalprice": 1907,
+    "depositpaid": true,
+    "checkin": "2025-04-05",
+    "checkout": "2025-04-06",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Siti",
+    "lastname": "Sinaga",
+    "totalprice": 1591,
+    "depositpaid": false,
+    "checkin": "2025-02-24",
+    "checkout": "2025-03-04",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Salma",
+    "lastname": "Lubis",
+    "totalprice": 1426,
+    "depositpaid": true,
+    "checkin": "2025-10-03",
+    "checkout": "2025-10-09",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Bagas",
+    "lastname": "Triyanto",
+    "totalprice": 433,
+    "depositpaid": true,
+    "checkin": "2025-12-07",
+    "checkout": "2025-12-11",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Arif",
+    "lastname": "Laksmana",
+    "totalprice": 1072,
+    "depositpaid": false,
+    "checkin": "2025-04-21",
+    "checkout": "2025-05-03",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Umar",
+    "lastname": "Maulana",
+    "totalprice": 1291,
+    "depositpaid": false,
+    "checkin": "2025-09-02",
+    "checkout": "2025-09-08",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Putri",
+    "lastname": "Laksmana",
+    "totalprice": 713,
+    "depositpaid": true,
+    "checkin": "2025-11-28",
+    "checkout": "2025-12-02",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Triyanto",
+    "totalprice": 1444,
+    "depositpaid": true,
+    "checkin": "2025-09-02",
+    "checkout": "2025-09-06",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Rangga",
+    "lastname": "Lubis",
+    "totalprice": 1774,
+    "depositpaid": false,
+    "checkin": "2025-09-23",
+    "checkout": "2025-10-01",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Rohman",
+    "totalprice": 1728,
+    "depositpaid": true,
+    "checkin": "2025-09-27",
+    "checkout": "2025-10-04",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Gunawan",
+    "lastname": "Wahyudi",
+    "totalprice": 809,
+    "depositpaid": false,
+    "checkin": "2025-10-11",
+    "checkout": "2025-10-21",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Sitepu",
+    "totalprice": 523,
+    "depositpaid": true,
+    "checkin": "2025-11-23",
+    "checkout": "2025-12-03",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Salma",
+    "lastname": "Siregar",
+    "totalprice": 1165,
+    "depositpaid": false,
+    "checkin": "2025-07-24",
+    "checkout": "2025-08-09",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Arif",
+    "lastname": "Gunadi",
+    "totalprice": 726,
+    "depositpaid": true,
+    "checkin": "2025-06-21",
+    "checkout": "2025-06-27",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Dodi",
+    "lastname": "Purnama",
+    "totalprice": 1352,
+    "depositpaid": true,
+    "checkin": "2025-12-18",
+    "checkout": "2025-12-28",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Vicky",
+    "lastname": "Situmorang",
+    "totalprice": 1592,
+    "depositpaid": true,
+    "checkin": "2025-06-12",
+    "checkout": "2025-06-19",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Hafiz",
+    "lastname": "Sudirman",
+    "totalprice": 721,
+    "depositpaid": true,
+    "checkin": "2025-07-03",
+    "checkout": "2025-07-09",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Sari",
+    "lastname": "Firmansyah",
+    "totalprice": 1008,
+    "depositpaid": false,
+    "checkin": "2025-08-23",
+    "checkout": "2025-09-04",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Irwan",
+    "lastname": "Wahyudi",
+    "totalprice": 687,
+    "depositpaid": false,
+    "checkin": "2025-08-05",
+    "checkout": "2025-08-13",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Lutfi",
+    "lastname": "Brahmana",
+    "totalprice": 965,
+    "depositpaid": false,
+    "checkin": "2025-11-22",
+    "checkout": "2025-12-05",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Surya",
+    "lastname": "Simatupang",
+    "totalprice": 814,
+    "depositpaid": true,
+    "checkin": "2025-07-11",
+    "checkout": "2025-07-22",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Qodri",
+    "lastname": "Utomo",
+    "totalprice": 918,
+    "depositpaid": false,
+    "checkin": "2025-11-23",
+    "checkout": "2025-12-08",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Vera",
+    "lastname": "Hidayat",
+    "totalprice": 292,
+    "depositpaid": true,
+    "checkin": "2025-04-07",
+    "checkout": "2025-04-12",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Elsa",
+    "lastname": "Hidayat",
+    "totalprice": 1661,
+    "depositpaid": false,
+    "checkin": "2025-02-02",
+    "checkout": "2025-02-11",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Kukuh",
+    "lastname": "Tarigan",
+    "totalprice": 1668,
+    "depositpaid": false,
+    "checkin": "2025-12-10",
+    "checkout": "2025-12-17",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Ulfa",
+    "lastname": "Valentino",
+    "totalprice": 1680,
+    "depositpaid": true,
+    "checkin": "2025-04-16",
+    "checkout": "2025-04-26",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Julia",
+    "lastname": "Perangin",
+    "totalprice": 482,
+    "depositpaid": false,
+    "checkin": "2025-01-27",
+    "checkout": "2025-02-04",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Nadia",
+    "lastname": "Lutfiani",
+    "totalprice": 1046,
+    "depositpaid": false,
+    "checkin": "2025-09-24",
+    "checkout": "2025-10-08",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Tari",
+    "lastname": "Irawan",
+    "totalprice": 1551,
+    "depositpaid": true,
+    "checkin": "2025-10-25",
+    "checkout": "2025-11-08",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Hafiz",
+    "lastname": "Kurniawan",
+    "totalprice": 1716,
+    "depositpaid": false,
+    "checkin": "2025-02-18",
+    "checkout": "2025-03-01",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Rudi",
+    "lastname": "Xaverius",
+    "totalprice": 136,
+    "depositpaid": true,
+    "checkin": "2025-10-02",
+    "checkout": "2025-10-16",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Teguh",
+    "lastname": "Budiman",
+    "totalprice": 199,
+    "depositpaid": true,
+    "checkin": "2025-03-15",
+    "checkout": "2025-03-27",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Hendra",
+    "lastname": "Simanjuntak",
+    "totalprice": 958,
+    "depositpaid": false,
+    "checkin": "2025-02-26",
+    "checkout": "2025-03-01",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Cahyono",
+    "totalprice": 1718,
+    "depositpaid": false,
+    "checkin": "2025-08-11",
+    "checkout": "2025-08-23",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Okta",
+    "lastname": "Brahmana",
+    "totalprice": 1076,
+    "depositpaid": true,
+    "checkin": "2025-07-05",
+    "checkout": "2025-07-10",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Surya",
+    "lastname": "Wahyudi",
+    "totalprice": 1666,
+    "depositpaid": false,
+    "checkin": "2025-02-05",
+    "checkout": "2025-02-17",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Dina",
+    "lastname": "Maulana",
+    "totalprice": 813,
+    "depositpaid": false,
+    "checkin": "2025-12-05",
+    "checkout": "2025-12-15",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Surya",
+    "lastname": "Brahmana",
+    "totalprice": 887,
+    "depositpaid": true,
+    "checkin": "2025-05-21",
+    "checkout": "2025-06-02",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Qodri",
+    "lastname": "Budiman",
+    "totalprice": 1405,
+    "depositpaid": false,
+    "checkin": "2025-06-28",
+    "checkout": "2025-07-12",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Mira",
+    "lastname": "Triyanto",
+    "totalprice": 1413,
+    "depositpaid": false,
+    "checkin": "2025-08-04",
+    "checkout": "2025-08-18",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Marwan",
+    "lastname": "Gunawan",
+    "totalprice": 1014,
+    "depositpaid": false,
+    "checkin": "2025-01-06",
+    "checkout": "2025-01-07",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Surya",
+    "lastname": "Ginting",
+    "totalprice": 1603,
+    "depositpaid": true,
+    "checkin": "2025-09-28",
+    "checkout": "2025-10-14",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Nadia",
+    "lastname": "Xaverius",
+    "totalprice": 1374,
+    "depositpaid": false,
+    "checkin": "2025-04-21",
+    "checkout": "2025-04-24",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Yoga",
+    "lastname": "Wijaya",
+    "totalprice": 626,
+    "depositpaid": true,
+    "checkin": "2025-03-03",
+    "checkout": "2025-03-16",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Yola",
+    "lastname": "Baharudin",
+    "totalprice": 1689,
+    "depositpaid": true,
+    "checkin": "2025-06-03",
+    "checkout": "2025-06-16",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Wati",
+    "lastname": "Triyanto",
+    "totalprice": 467,
+    "depositpaid": true,
+    "checkin": "2025-01-08",
+    "checkout": "2025-01-16",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Budi",
+    "lastname": "Lestari",
+    "totalprice": 589,
+    "depositpaid": false,
+    "checkin": "2025-08-19",
+    "checkout": "2025-09-01",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Umi",
+    "lastname": "Maulana",
+    "totalprice": 382,
+    "depositpaid": true,
+    "checkin": "2025-12-14",
+    "checkout": "2025-12-19",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Layla",
+    "lastname": "Xaverius",
+    "totalprice": 1566,
+    "depositpaid": false,
+    "checkin": "2025-03-17",
+    "checkout": "2025-04-01",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Rangga",
+    "lastname": "Purnama",
+    "totalprice": 128,
+    "depositpaid": false,
+    "checkin": "2025-05-16",
+    "checkout": "2025-05-24",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Umi",
+    "lastname": "Effendi",
+    "totalprice": 1275,
+    "depositpaid": false,
+    "checkin": "2025-03-08",
+    "checkout": "2025-03-19",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Ujang",
+    "lastname": "Junaedi",
+    "totalprice": 1742,
+    "depositpaid": true,
+    "checkin": "2025-12-14",
+    "checkout": "2025-12-16",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Qorina",
+    "lastname": "Sanjaya",
+    "totalprice": 762,
+    "depositpaid": true,
+    "checkin": "2025-05-08",
+    "checkout": "2025-05-12",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Citra",
+    "lastname": "Ginting",
+    "totalprice": 1934,
+    "depositpaid": false,
+    "checkin": "2025-06-17",
+    "checkout": "2025-06-27",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Tari",
+    "lastname": "Gunadi",
+    "totalprice": 1977,
+    "depositpaid": true,
+    "checkin": "2025-12-09",
+    "checkout": "2025-12-22",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Qorina",
+    "lastname": "Zulkarnain",
+    "totalprice": 656,
+    "depositpaid": false,
+    "checkin": "2025-10-02",
+    "checkout": "2025-10-10",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Dimas",
+    "lastname": "Handoyo",
+    "totalprice": 1656,
+    "depositpaid": false,
+    "checkin": "2025-09-04",
+    "checkout": "2025-09-06",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Galih",
+    "lastname": "Lestari",
+    "totalprice": 460,
+    "depositpaid": true,
+    "checkin": "2025-01-10",
+    "checkout": "2025-01-18",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Vina",
+    "lastname": "Fatahillah",
+    "totalprice": 1075,
+    "depositpaid": true,
+    "checkin": "2025-01-11",
+    "checkout": "2025-01-15",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Cahyo",
+    "lastname": "Wahyudi",
+    "totalprice": 368,
+    "depositpaid": true,
+    "checkin": "2025-10-04",
+    "checkout": "2025-10-09",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Vina",
+    "lastname": "Nugroho",
+    "totalprice": 1146,
+    "depositpaid": true,
+    "checkin": "2025-04-08",
+    "checkout": "2025-04-21",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Dina",
+    "lastname": "Setiawan",
+    "totalprice": 1919,
+    "depositpaid": true,
+    "checkin": "2025-06-23",
+    "checkout": "2025-07-02",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Lestari",
+    "lastname": "Handoyo",
+    "totalprice": 706,
+    "depositpaid": false,
+    "checkin": "2025-01-21",
+    "checkout": "2025-02-02",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Sinta",
+    "lastname": "Subagyo",
+    "totalprice": 1712,
+    "depositpaid": true,
+    "checkin": "2025-09-22",
+    "checkout": "2025-09-26",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Riska",
+    "lastname": "Hermawan",
+    "totalprice": 1126,
+    "depositpaid": false,
+    "checkin": "2025-01-26",
+    "checkout": "2025-02-03",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Rina",
+    "lastname": "Adiputra",
+    "totalprice": 1092,
+    "depositpaid": true,
+    "checkin": "2025-05-24",
+    "checkout": "2025-06-06",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Ujang",
+    "lastname": "Gunadi",
+    "totalprice": 1450,
+    "depositpaid": true,
+    "checkin": "2025-07-22",
+    "checkout": "2025-08-04",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Xena",
+    "lastname": "Jamaludin",
+    "totalprice": 1091,
+    "depositpaid": false,
+    "checkin": "2025-12-02",
+    "checkout": "2025-12-10",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Fauzan",
+    "lastname": "Suryadi",
+    "totalprice": 1183,
+    "depositpaid": false,
+    "checkin": "2025-04-24",
+    "checkout": "2025-05-01",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Xaverius",
+    "totalprice": 1927,
+    "depositpaid": true,
+    "checkin": "2025-11-15",
+    "checkout": "2025-11-17",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Vera",
+    "lastname": "Triyanto",
+    "totalprice": 107,
+    "depositpaid": true,
+    "checkin": "2025-05-09",
+    "checkout": "2025-05-21",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Hafiz",
+    "lastname": "Panjaitan",
+    "totalprice": 553,
+    "depositpaid": false,
+    "checkin": "2025-04-05",
+    "checkout": "2025-04-16",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Olivia",
+    "lastname": "Handoyo",
+    "totalprice": 1687,
+    "depositpaid": true,
+    "checkin": "2025-07-22",
+    "checkout": "2025-07-25",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Umar",
+    "lastname": "Perangin",
+    "totalprice": 1390,
+    "depositpaid": false,
+    "checkin": "2025-10-13",
+    "checkout": "2025-10-19",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Vera",
+    "lastname": "Nurrohman",
+    "totalprice": 1304,
+    "depositpaid": false,
+    "checkin": "2025-07-05",
+    "checkout": "2025-07-18",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Teguh",
+    "lastname": "Baharudin",
+    "totalprice": 1327,
+    "depositpaid": false,
+    "checkin": "2025-08-26",
+    "checkout": "2025-09-12",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Sinta",
+    "lastname": "Wibowo",
+    "totalprice": 1380,
+    "depositpaid": false,
+    "checkin": "2025-10-24",
+    "checkout": "2025-10-28",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Rina",
+    "lastname": "Yudistira",
+    "totalprice": 720,
+    "depositpaid": false,
+    "checkin": "2025-02-05",
+    "checkout": "2025-02-11",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Xaverius",
+    "totalprice": 1756,
+    "depositpaid": false,
+    "checkin": "2025-02-08",
+    "checkout": "2025-02-11",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Nadia",
+    "lastname": "Handoyo",
+    "totalprice": 1690,
+    "depositpaid": true,
+    "checkin": "2025-02-12",
+    "checkout": "2025-02-20",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Yoga",
+    "lastname": "Harahap",
+    "totalprice": 618,
+    "depositpaid": false,
+    "checkin": "2025-03-05",
+    "checkout": "2025-03-16",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Ujang",
+    "lastname": "Lestari",
+    "totalprice": 988,
+    "depositpaid": true,
+    "checkin": "2025-05-14",
+    "checkout": "2025-05-15",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Eko",
+    "lastname": "Nurrohman",
+    "totalprice": 1394,
+    "depositpaid": true,
+    "checkin": "2025-12-21",
+    "checkout": "2026-01-04",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Cahyo",
+    "lastname": "Gunadi",
+    "totalprice": 1930,
+    "depositpaid": true,
+    "checkin": "2025-10-25",
+    "checkout": "2025-11-05",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Wahyu",
+    "lastname": "Pratama",
+    "totalprice": 266,
+    "depositpaid": false,
+    "checkin": "2025-05-03",
+    "checkout": "2025-05-16",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Putri",
+    "lastname": "Bangun",
+    "totalprice": 658,
+    "depositpaid": false,
+    "checkin": "2025-08-23",
+    "checkout": "2025-09-04",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Zulfa",
+    "lastname": "Lubis",
+    "totalprice": 971,
+    "depositpaid": false,
+    "checkin": "2025-05-15",
+    "checkout": "2025-05-22",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Hendra",
+    "lastname": "Sembiring",
+    "totalprice": 1535,
+    "depositpaid": false,
+    "checkin": "2025-04-07",
+    "checkout": "2025-04-14",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Sigit",
+    "lastname": "Sanjaya",
+    "totalprice": 797,
+    "depositpaid": true,
+    "checkin": "2025-11-08",
+    "checkout": "2025-11-14",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Dewi",
+    "lastname": "Firmansyah",
+    "totalprice": 1432,
+    "depositpaid": true,
+    "checkin": "2025-11-01",
+    "checkout": "2025-11-15",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Gita",
+    "lastname": "Susanto",
+    "totalprice": 1049,
+    "depositpaid": true,
+    "checkin": "2025-02-24",
+    "checkout": "2025-03-09",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Hafiz",
+    "lastname": "Gunawan",
+    "totalprice": 1016,
+    "depositpaid": false,
+    "checkin": "2025-05-26",
+    "checkout": "2025-05-28",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Lestari",
+    "lastname": "Lubis",
+    "totalprice": 1716,
+    "depositpaid": true,
+    "checkin": "2025-06-20",
+    "checkout": "2025-07-06",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Riska",
+    "lastname": "Susanto",
+    "totalprice": 268,
+    "depositpaid": true,
+    "checkin": "2025-02-03",
+    "checkout": "2025-02-17",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Gita",
+    "lastname": "Setiawan",
+    "totalprice": 1536,
+    "depositpaid": true,
+    "checkin": "2025-02-28",
+    "checkout": "2025-03-02",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Sigit",
+    "lastname": "Suryadi",
+    "totalprice": 590,
+    "depositpaid": true,
+    "checkin": "2025-10-25",
+    "checkout": "2025-11-10",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Vina",
+    "lastname": "Baharudin",
+    "totalprice": 1584,
+    "depositpaid": false,
+    "checkin": "2025-10-12",
+    "checkout": "2025-10-24",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Lestari",
+    "lastname": "Lutfiani",
+    "totalprice": 546,
+    "depositpaid": true,
+    "checkin": "2025-05-14",
+    "checkout": "2025-05-15",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Vera",
+    "lastname": "Lubis",
+    "totalprice": 1332,
+    "depositpaid": false,
+    "checkin": "2025-03-09",
+    "checkout": "2025-03-13",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Umi",
+    "lastname": "Qomarudin",
+    "totalprice": 698,
+    "depositpaid": true,
+    "checkin": "2025-11-15",
+    "checkout": "2025-11-23",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Eko",
+    "lastname": "Adiputra",
+    "totalprice": 564,
+    "depositpaid": true,
+    "checkin": "2025-02-11",
+    "checkout": "2025-02-22",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Citra",
+    "lastname": "Karo",
+    "totalprice": 131,
+    "depositpaid": false,
+    "checkin": "2025-06-27",
+    "checkout": "2025-07-10",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Ilham",
+    "lastname": "Barus",
+    "totalprice": 1277,
+    "depositpaid": true,
+    "checkin": "2025-07-16",
+    "checkout": "2025-07-22",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Layla",
+    "lastname": "Lutfiani",
+    "totalprice": 1173,
+    "depositpaid": false,
+    "checkin": "2025-06-28",
+    "checkout": "2025-07-03",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Zahra",
+    "lastname": "Lutfiani",
+    "totalprice": 1535,
+    "depositpaid": true,
+    "checkin": "2025-11-08",
+    "checkout": "2025-11-22",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Layla",
+    "lastname": "Fatahillah",
+    "totalprice": 172,
+    "depositpaid": false,
+    "checkin": "2025-04-04",
+    "checkout": "2025-04-07",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Oki",
+    "lastname": "Lutfiani",
+    "totalprice": 513,
+    "depositpaid": false,
+    "checkin": "2025-12-08",
+    "checkout": "2025-12-20",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Oscar",
+    "lastname": "Dermawan",
+    "totalprice": 237,
+    "depositpaid": true,
+    "checkin": "2025-09-04",
+    "checkout": "2025-09-11",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Salma",
+    "lastname": "Cahyono",
+    "totalprice": 1658,
+    "depositpaid": false,
+    "checkin": "2025-02-15",
+    "checkout": "2025-02-27",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Andi",
+    "lastname": "Situmorang",
+    "totalprice": 1765,
+    "depositpaid": false,
+    "checkin": "2025-06-22",
+    "checkout": "2025-07-05",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Novi",
+    "lastname": "Valentino",
+    "totalprice": 1681,
+    "depositpaid": true,
+    "checkin": "2025-06-08",
+    "checkout": "2025-06-13",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Irwan",
+    "lastname": "Sitepu",
+    "totalprice": 1820,
+    "depositpaid": true,
+    "checkin": "2025-07-11",
+    "checkout": "2025-07-19",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Lubis",
+    "totalprice": 1560,
+    "depositpaid": true,
+    "checkin": "2025-07-17",
+    "checkout": "2025-07-25",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Krisna",
+    "lastname": "Ginting",
+    "totalprice": 259,
+    "depositpaid": false,
+    "checkin": "2025-06-09",
+    "checkout": "2025-06-20",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Siti",
+    "lastname": "Firmansyah",
+    "totalprice": 957,
+    "depositpaid": false,
+    "checkin": "2025-04-02",
+    "checkout": "2025-04-10",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Firmansyah",
+    "totalprice": 884,
+    "depositpaid": false,
+    "checkin": "2025-05-09",
+    "checkout": "2025-05-14",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Dodi",
+    "lastname": "Setiawan",
+    "totalprice": 1113,
+    "depositpaid": false,
+    "checkin": "2025-01-22",
+    "checkout": "2025-02-01",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Tari",
+    "lastname": "Qomarudin",
+    "totalprice": 1426,
+    "depositpaid": true,
+    "checkin": "2025-06-05",
+    "checkout": "2025-06-08",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Fanny",
+    "lastname": "Perangin",
+    "totalprice": 412,
+    "depositpaid": true,
+    "checkin": "2025-09-20",
+    "checkout": "2025-10-01",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Miko",
+    "lastname": "Hutapea",
+    "totalprice": 1522,
+    "depositpaid": true,
+    "checkin": "2025-11-15",
+    "checkout": "2025-11-21",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Jefri",
+    "lastname": "Valentino",
+    "totalprice": 1513,
+    "depositpaid": false,
+    "checkin": "2025-12-26",
+    "checkout": "2026-01-08",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Dewi",
+    "lastname": "Nasution",
+    "totalprice": 782,
+    "depositpaid": false,
+    "checkin": "2025-01-02",
+    "checkout": "2025-01-08",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Puspita",
+    "lastname": "Pramono",
+    "totalprice": 261,
+    "depositpaid": false,
+    "checkin": "2025-03-28",
+    "checkout": "2025-04-01",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Lestari",
+    "totalprice": 1369,
+    "depositpaid": false,
+    "checkin": "2025-01-15",
+    "checkout": "2025-01-16",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Ratna",
+    "lastname": "Panjaitan",
+    "totalprice": 1405,
+    "depositpaid": false,
+    "checkin": "2025-04-12",
+    "checkout": "2025-04-25",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Krisna",
+    "lastname": "Tarigan",
+    "totalprice": 202,
+    "depositpaid": true,
+    "checkin": "2025-07-28",
+    "checkout": "2025-08-13",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Vina",
+    "lastname": "Zulkarnain",
+    "totalprice": 351,
+    "depositpaid": false,
+    "checkin": "2025-11-19",
+    "checkout": "2025-11-21",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Yanti",
+    "lastname": "Sinaga",
+    "totalprice": 564,
+    "depositpaid": false,
+    "checkin": "2025-05-18",
+    "checkout": "2025-05-23",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Ratna",
+    "lastname": "Perangin",
+    "totalprice": 986,
+    "depositpaid": false,
+    "checkin": "2025-01-04",
+    "checkout": "2025-01-17",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Rangga",
+    "lastname": "Sanjaya",
+    "totalprice": 980,
+    "depositpaid": true,
+    "checkin": "2025-10-17",
+    "checkout": "2025-10-23",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Julia",
+    "lastname": "Mahardika",
+    "totalprice": 703,
+    "depositpaid": false,
+    "checkin": "2025-09-11",
+    "checkout": "2025-09-20",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Mira",
+    "lastname": "Santoso",
+    "totalprice": 1572,
+    "depositpaid": false,
+    "checkin": "2025-09-18",
+    "checkout": "2025-09-19",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Kartika",
+    "lastname": "Situmorang",
+    "totalprice": 1305,
+    "depositpaid": false,
+    "checkin": "2025-10-16",
+    "checkout": "2025-10-19",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Surya",
+    "lastname": "Gunadi",
+    "totalprice": 1497,
+    "depositpaid": false,
+    "checkin": "2025-02-01",
+    "checkout": "2025-02-12",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Mahardika",
+    "totalprice": 372,
+    "depositpaid": true,
+    "checkin": "2025-06-23",
+    "checkout": "2025-07-06",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Galih",
+    "lastname": "Hermawan",
+    "totalprice": 1753,
+    "depositpaid": true,
+    "checkin": "2025-07-01",
+    "checkout": "2025-07-10",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Nadia",
+    "lastname": "Jamaludin",
+    "totalprice": 120,
+    "depositpaid": true,
+    "checkin": "2025-07-27",
+    "checkout": "2025-08-08",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Novi",
+    "lastname": "Kusuma",
+    "totalprice": 1699,
+    "depositpaid": false,
+    "checkin": "2025-10-05",
+    "checkout": "2025-10-11",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Galih",
+    "lastname": "Brahmana",
+    "totalprice": 1182,
+    "depositpaid": true,
+    "checkin": "2025-07-22",
+    "checkout": "2025-07-24",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Yoga",
+    "lastname": "Valentino",
+    "totalprice": 1222,
+    "depositpaid": false,
+    "checkin": "2025-12-04",
+    "checkout": "2025-12-09",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Wati",
+    "lastname": "Purba",
+    "totalprice": 1782,
+    "depositpaid": false,
+    "checkin": "2025-05-26",
+    "checkout": "2025-06-12",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Siti",
+    "lastname": "Lestari",
+    "totalprice": 938,
+    "depositpaid": false,
+    "checkin": "2025-08-03",
+    "checkout": "2025-08-15",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Vino",
+    "lastname": "Kamaludin",
+    "totalprice": 1073,
+    "depositpaid": true,
+    "checkin": "2025-01-21",
+    "checkout": "2025-01-26",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Salma",
+    "lastname": "Susanto",
+    "totalprice": 404,
+    "depositpaid": false,
+    "checkin": "2025-02-20",
+    "checkout": "2025-03-05",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Wulan",
+    "lastname": "Pramono",
+    "totalprice": 1840,
+    "depositpaid": true,
+    "checkin": "2025-04-11",
+    "checkout": "2025-04-12",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Luthfi",
+    "lastname": "Rahayu",
+    "totalprice": 1570,
+    "depositpaid": true,
+    "checkin": "2025-05-27",
+    "checkout": "2025-06-10",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Teguh",
+    "lastname": "Fatahillah",
+    "totalprice": 1943,
+    "depositpaid": true,
+    "checkin": "2025-03-21",
+    "checkout": "2025-03-28",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Zulfa",
+    "lastname": "Rahayu",
+    "totalprice": 381,
+    "depositpaid": true,
+    "checkin": "2025-08-28",
+    "checkout": "2025-09-02",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Dewi",
+    "lastname": "Lutfiani",
+    "totalprice": 693,
+    "depositpaid": true,
+    "checkin": "2025-01-11",
+    "checkout": "2025-01-25",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Hafiz",
+    "lastname": "Utomo",
+    "totalprice": 785,
+    "depositpaid": false,
+    "checkin": "2025-07-19",
+    "checkout": "2025-08-04",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Pandu",
+    "lastname": "Firmansyah",
+    "totalprice": 1989,
+    "depositpaid": true,
+    "checkin": "2025-08-06",
+    "checkout": "2025-08-10",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Hana",
+    "lastname": "Laksmana",
+    "totalprice": 1503,
+    "depositpaid": true,
+    "checkin": "2025-12-11",
+    "checkout": "2025-12-18",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Kukuh",
+    "lastname": "Mahardika",
+    "totalprice": 265,
+    "depositpaid": false,
+    "checkin": "2025-05-11",
+    "checkout": "2025-05-19",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Ratna",
+    "lastname": "Brahmana",
+    "totalprice": 1796,
+    "depositpaid": true,
+    "checkin": "2025-06-26",
+    "checkout": "2025-07-02",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Ika",
+    "lastname": "Siregar",
+    "totalprice": 1496,
+    "depositpaid": false,
+    "checkin": "2025-05-03",
+    "checkout": "2025-05-16",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Arif",
+    "lastname": "Hartanto",
+    "totalprice": 1871,
+    "depositpaid": true,
+    "checkin": "2025-04-25",
+    "checkout": "2025-05-06",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Pandu",
+    "lastname": "Nurrohman",
+    "totalprice": 405,
+    "depositpaid": true,
+    "checkin": "2025-07-12",
+    "checkout": "2025-07-18",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Prita",
+    "lastname": "Maulana",
+    "totalprice": 1622,
+    "depositpaid": false,
+    "checkin": "2025-02-25",
+    "checkout": "2025-03-05",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Brahmana",
+    "totalprice": 624,
+    "depositpaid": false,
+    "checkin": "2025-08-02",
+    "checkout": "2025-08-15",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Hendra",
+    "lastname": "Handoyo",
+    "totalprice": 1604,
+    "depositpaid": true,
+    "checkin": "2025-06-07",
+    "checkout": "2025-06-16",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Kurniawan",
+    "totalprice": 277,
+    "depositpaid": true,
+    "checkin": "2025-10-13",
+    "checkout": "2025-10-26",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Hendra",
+    "lastname": "Karo",
+    "totalprice": 811,
+    "depositpaid": true,
+    "checkin": "2025-08-14",
+    "checkout": "2025-08-27",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Cahyo",
+    "lastname": "Sembiring",
+    "totalprice": 1648,
+    "depositpaid": false,
+    "checkin": "2025-09-06",
+    "checkout": "2025-09-19",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Sigit",
+    "lastname": "Wahyudi",
+    "totalprice": 185,
+    "depositpaid": false,
+    "checkin": "2025-03-24",
+    "checkout": "2025-04-09",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Zaki",
+    "lastname": "Karo",
+    "totalprice": 107,
+    "depositpaid": true,
+    "checkin": "2025-01-19",
+    "checkout": "2025-02-02",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Irwan",
+    "lastname": "Lubis",
+    "totalprice": 544,
+    "depositpaid": false,
+    "checkin": "2025-02-16",
+    "checkout": "2025-02-20",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Luthfi",
+    "lastname": "Lubis",
+    "totalprice": 773,
+    "depositpaid": true,
+    "checkin": "2025-10-23",
+    "checkout": "2025-11-02",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Pandu",
+    "lastname": "Wijaya",
+    "totalprice": 687,
+    "depositpaid": true,
+    "checkin": "2025-06-04",
+    "checkout": "2025-06-12",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Erwin",
+    "lastname": "Baharudin",
+    "totalprice": 1547,
+    "depositpaid": true,
+    "checkin": "2025-08-04",
+    "checkout": "2025-08-18",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Wati",
+    "lastname": "Hartanto",
+    "totalprice": 1370,
+    "depositpaid": false,
+    "checkin": "2025-04-28",
+    "checkout": "2025-05-03",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Lestari",
+    "lastname": "Rohman",
+    "totalprice": 1242,
+    "depositpaid": true,
+    "checkin": "2025-12-21",
+    "checkout": "2026-01-06",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Budi",
+    "lastname": "Budiman",
+    "totalprice": 736,
+    "depositpaid": false,
+    "checkin": "2025-12-27",
+    "checkout": "2026-01-11",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Riska",
+    "lastname": "Utomo",
+    "totalprice": 1648,
+    "depositpaid": false,
+    "checkin": "2025-09-03",
+    "checkout": "2025-09-04",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Puspita",
+    "lastname": "Hutapea",
+    "totalprice": 133,
+    "depositpaid": true,
+    "checkin": "2025-01-24",
+    "checkout": "2025-02-10",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Nando",
+    "lastname": "Sembiring",
+    "totalprice": 1871,
+    "depositpaid": false,
+    "checkin": "2025-07-26",
+    "checkout": "2025-08-04",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Mira",
+    "lastname": "Pratama",
+    "totalprice": 882,
+    "depositpaid": false,
+    "checkin": "2025-03-16",
+    "checkout": "2025-03-23",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Umar",
+    "lastname": "Kristianto",
+    "totalprice": 1470,
+    "depositpaid": true,
+    "checkin": "2025-12-13",
+    "checkout": "2025-12-23",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Rangga",
+    "lastname": "Pratama",
+    "totalprice": 1199,
+    "depositpaid": false,
+    "checkin": "2025-02-24",
+    "checkout": "2025-03-08",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Vina",
+    "lastname": "Triyanto",
+    "totalprice": 1552,
+    "depositpaid": false,
+    "checkin": "2025-09-13",
+    "checkout": "2025-09-24",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Andi",
+    "lastname": "Baharudin",
+    "totalprice": 1211,
+    "depositpaid": false,
+    "checkin": "2025-05-10",
+    "checkout": "2025-05-18",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Dina",
+    "lastname": "Sudirman",
+    "totalprice": 1776,
+    "depositpaid": false,
+    "checkin": "2025-01-12",
+    "checkout": "2025-01-20",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Teguh",
+    "lastname": "Tarigan",
+    "totalprice": 966,
+    "depositpaid": true,
+    "checkin": "2025-12-26",
+    "checkout": "2025-12-28",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Rudi",
+    "lastname": "Yudistira",
+    "totalprice": 1866,
+    "depositpaid": true,
+    "checkin": "2025-02-06",
+    "checkout": "2025-02-08",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Nugroho",
+    "lastname": "Jamaludin",
+    "totalprice": 1256,
+    "depositpaid": false,
+    "checkin": "2025-05-09",
+    "checkout": "2025-05-12",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Qori",
+    "lastname": "Bangun",
+    "totalprice": 1510,
+    "depositpaid": false,
+    "checkin": "2025-08-19",
+    "checkout": "2025-08-23",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Pandu",
+    "lastname": "Kurniawan",
+    "totalprice": 1889,
+    "depositpaid": false,
+    "checkin": "2025-10-09",
+    "checkout": "2025-10-11",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Dimas",
+    "lastname": "Kamaludin",
+    "totalprice": 791,
+    "depositpaid": true,
+    "checkin": "2025-10-11",
+    "checkout": "2025-10-16",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Fanny",
+    "lastname": "Zulkarnain",
+    "totalprice": 290,
+    "depositpaid": false,
+    "checkin": "2025-12-24",
+    "checkout": "2026-01-09",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Ayu",
+    "lastname": "Santoso",
+    "totalprice": 801,
+    "depositpaid": true,
+    "checkin": "2025-11-12",
+    "checkout": "2025-11-14",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Bella",
+    "lastname": "Maulana",
+    "totalprice": 1832,
+    "depositpaid": true,
+    "checkin": "2025-01-24",
+    "checkout": "2025-02-04",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Siti",
+    "lastname": "Pramono",
+    "totalprice": 1699,
+    "depositpaid": true,
+    "checkin": "2025-12-04",
+    "checkout": "2025-12-09",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Winda",
+    "lastname": "Gunadi",
+    "totalprice": 1598,
+    "depositpaid": true,
+    "checkin": "2025-08-15",
+    "checkout": "2025-08-20",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Prima",
+    "lastname": "Maulana",
+    "totalprice": 165,
+    "depositpaid": false,
+    "checkin": "2025-01-06",
+    "checkout": "2025-01-15",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Dewi",
+    "lastname": "Nugroho",
+    "totalprice": 448,
+    "depositpaid": true,
+    "checkin": "2025-04-06",
+    "checkout": "2025-04-20",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Cahyo",
+    "lastname": "Lubis",
+    "totalprice": 729,
+    "depositpaid": false,
+    "checkin": "2025-04-19",
+    "checkout": "2025-05-01",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Bambang",
+    "lastname": "Kusuma",
+    "totalprice": 465,
+    "depositpaid": true,
+    "checkin": "2025-09-19",
+    "checkout": "2025-10-03",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Wati",
+    "lastname": "Effendi",
+    "totalprice": 1121,
+    "depositpaid": false,
+    "checkin": "2025-02-08",
+    "checkout": "2025-02-13",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Yudistira",
+    "totalprice": 1586,
+    "depositpaid": false,
+    "checkin": "2025-12-27",
+    "checkout": "2026-01-11",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Bagas",
+    "lastname": "Hermawan",
+    "totalprice": 857,
+    "depositpaid": false,
+    "checkin": "2025-06-18",
+    "checkout": "2025-07-03",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Okta",
+    "lastname": "Kamaludin",
+    "totalprice": 1934,
+    "depositpaid": true,
+    "checkin": "2025-10-14",
+    "checkout": "2025-10-15",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Citra",
+    "lastname": "Adiputra",
+    "totalprice": 274,
+    "depositpaid": false,
+    "checkin": "2025-06-06",
+    "checkout": "2025-06-17",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Qorina",
+    "lastname": "Simanjuntak",
+    "totalprice": 689,
+    "depositpaid": false,
+    "checkin": "2025-01-23",
+    "checkout": "2025-01-24",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Bella",
+    "lastname": "Mahardika",
+    "totalprice": 107,
+    "depositpaid": false,
+    "checkin": "2025-04-08",
+    "checkout": "2025-04-17",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Vina",
+    "lastname": "Hermawan",
+    "totalprice": 1733,
+    "depositpaid": false,
+    "checkin": "2025-08-26",
+    "checkout": "2025-09-01",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Hana",
+    "lastname": "Purba",
+    "totalprice": 212,
+    "depositpaid": true,
+    "checkin": "2025-07-28",
+    "checkout": "2025-08-09",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Umar",
+    "lastname": "Perangin",
+    "totalprice": 1042,
+    "depositpaid": false,
+    "checkin": "2025-04-11",
+    "checkout": "2025-04-24",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Vera",
+    "lastname": "Pramono",
+    "totalprice": 1696,
+    "depositpaid": false,
+    "checkin": "2025-11-27",
+    "checkout": "2025-12-01",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Ani",
+    "lastname": "Perangin",
+    "totalprice": 1657,
+    "depositpaid": false,
+    "checkin": "2025-07-26",
+    "checkout": "2025-08-08",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Andi",
+    "lastname": "Mulyadi",
+    "totalprice": 973,
+    "depositpaid": false,
+    "checkin": "2025-12-10",
+    "checkout": "2025-12-18",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Qodri",
+    "lastname": "Utomo",
+    "totalprice": 1234,
+    "depositpaid": true,
+    "checkin": "2025-07-18",
+    "checkout": "2025-07-21",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Puspita",
+    "lastname": "Nurrohman",
+    "totalprice": 132,
+    "depositpaid": true,
+    "checkin": "2025-03-02",
+    "checkout": "2025-03-16",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Arif",
+    "lastname": "Pratama",
+    "totalprice": 745,
+    "depositpaid": true,
+    "checkin": "2025-04-28",
+    "checkout": "2025-05-05",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Hendra",
+    "lastname": "Rohman",
+    "totalprice": 890,
+    "depositpaid": false,
+    "checkin": "2025-01-06",
+    "checkout": "2025-01-12",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Yoga",
+    "lastname": "Barus",
+    "totalprice": 604,
+    "depositpaid": true,
+    "checkin": "2025-04-02",
+    "checkout": "2025-04-07",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Budiman",
+    "totalprice": 478,
+    "depositpaid": true,
+    "checkin": "2025-04-21",
+    "checkout": "2025-05-05",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Dewi",
+    "lastname": "Hidayat",
+    "totalprice": 909,
+    "depositpaid": true,
+    "checkin": "2025-05-07",
+    "checkout": "2025-05-18",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Fanny",
+    "lastname": "Nusantara",
+    "totalprice": 1771,
+    "depositpaid": false,
+    "checkin": "2025-02-20",
+    "checkout": "2025-03-06",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Dewi",
+    "lastname": "Nugroho",
+    "totalprice": 664,
+    "depositpaid": true,
+    "checkin": "2025-03-22",
+    "checkout": "2025-04-01",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Jefri",
+    "lastname": "Laksmana",
+    "totalprice": 1408,
+    "depositpaid": true,
+    "checkin": "2025-11-12",
+    "checkout": "2025-11-15",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Ilham",
+    "lastname": "Kamaludin",
+    "totalprice": 1521,
+    "depositpaid": false,
+    "checkin": "2025-09-25",
+    "checkout": "2025-10-11",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Fanny",
+    "lastname": "Ginting",
+    "totalprice": 717,
+    "depositpaid": false,
+    "checkin": "2025-08-27",
+    "checkout": "2025-09-10",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Yola",
+    "lastname": "Hidayat",
+    "totalprice": 1755,
+    "depositpaid": true,
+    "checkin": "2025-02-27",
+    "checkout": "2025-03-04",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Fitri",
+    "lastname": "Yudistira",
+    "totalprice": 1693,
+    "depositpaid": true,
+    "checkin": "2025-01-06",
+    "checkout": "2025-01-13",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Elsa",
+    "lastname": "Baharudin",
+    "totalprice": 688,
+    "depositpaid": false,
+    "checkin": "2025-12-23",
+    "checkout": "2026-01-02",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Julia",
+    "lastname": "Nurrohman",
+    "totalprice": 1470,
+    "depositpaid": true,
+    "checkin": "2025-10-24",
+    "checkout": "2025-11-05",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Vera",
+    "lastname": "Pratama",
+    "totalprice": 358,
+    "depositpaid": false,
+    "checkin": "2025-06-26",
+    "checkout": "2025-07-07",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Oscar",
+    "lastname": "Sitepu",
+    "totalprice": 431,
+    "depositpaid": false,
+    "checkin": "2025-02-14",
+    "checkout": "2025-02-25",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Vino",
+    "lastname": "Gunadi",
+    "totalprice": 1254,
+    "depositpaid": false,
+    "checkin": "2025-01-20",
+    "checkout": "2025-01-21",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Joko",
+    "lastname": "Barus",
+    "totalprice": 1939,
+    "depositpaid": false,
+    "checkin": "2025-12-27",
+    "checkout": "2026-01-03",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Mega",
+    "lastname": "Santoso",
+    "totalprice": 901,
+    "depositpaid": false,
+    "checkin": "2025-01-25",
+    "checkout": "2025-01-28",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Yudistira",
+    "totalprice": 1911,
+    "depositpaid": true,
+    "checkin": "2025-06-19",
+    "checkout": "2025-06-27",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Putri",
+    "lastname": "Wahyudi",
+    "totalprice": 445,
+    "depositpaid": false,
+    "checkin": "2025-03-20",
+    "checkout": "2025-03-27",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Hendra",
+    "lastname": "Purba",
+    "totalprice": 1665,
+    "depositpaid": false,
+    "checkin": "2025-01-12",
+    "checkout": "2025-01-19",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Xander",
+    "lastname": "Subagyo",
+    "totalprice": 1310,
+    "depositpaid": false,
+    "checkin": "2025-01-27",
+    "checkout": "2025-02-02",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Putri",
+    "lastname": "Hermawan",
+    "totalprice": 138,
+    "depositpaid": true,
+    "checkin": "2025-02-13",
+    "checkout": "2025-02-27",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Sari",
+    "lastname": "Laksmana",
+    "totalprice": 1335,
+    "depositpaid": false,
+    "checkin": "2025-01-05",
+    "checkout": "2025-01-17",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Galih",
+    "lastname": "Qomarudin",
+    "totalprice": 269,
+    "depositpaid": true,
+    "checkin": "2025-12-01",
+    "checkout": "2025-12-02",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Vicky",
+    "lastname": "Iskandar",
+    "totalprice": 1269,
+    "depositpaid": false,
+    "checkin": "2025-10-25",
+    "checkout": "2025-10-28",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Gunawan",
+    "lastname": "Iskandar",
+    "totalprice": 1823,
+    "depositpaid": false,
+    "checkin": "2025-10-02",
+    "checkout": "2025-10-14",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Prita",
+    "lastname": "Junaedi",
+    "totalprice": 889,
+    "depositpaid": false,
+    "checkin": "2025-04-12",
+    "checkout": "2025-04-25",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Tono",
+    "lastname": "Sitepu",
+    "totalprice": 834,
+    "depositpaid": true,
+    "checkin": "2025-10-19",
+    "checkout": "2025-11-05",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Hendra",
+    "lastname": "Ginting",
+    "totalprice": 525,
+    "depositpaid": true,
+    "checkin": "2025-04-24",
+    "checkout": "2025-05-02",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Wahyu",
+    "lastname": "Irawan",
+    "totalprice": 352,
+    "depositpaid": false,
+    "checkin": "2025-01-01",
+    "checkout": "2025-01-05",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Qodri",
+    "lastname": "Qomarudin",
+    "totalprice": 438,
+    "depositpaid": false,
+    "checkin": "2025-01-09",
+    "checkout": "2025-01-12",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Eko",
+    "lastname": "Yudistira",
+    "totalprice": 1631,
+    "depositpaid": false,
+    "checkin": "2025-12-05",
+    "checkout": "2025-12-08",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Marwan",
+    "lastname": "Triyanto",
+    "totalprice": 337,
+    "depositpaid": true,
+    "checkin": "2025-08-01",
+    "checkout": "2025-08-14",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Mega",
+    "lastname": "Setiawan",
+    "totalprice": 1295,
+    "depositpaid": true,
+    "checkin": "2025-08-05",
+    "checkout": "2025-08-14",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Tari",
+    "lastname": "Adiputra",
+    "totalprice": 385,
+    "depositpaid": true,
+    "checkin": "2025-03-17",
+    "checkout": "2025-03-18",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Rina",
+    "lastname": "Wijaya",
+    "totalprice": 507,
+    "depositpaid": true,
+    "checkin": "2025-04-22",
+    "checkout": "2025-04-24",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Citra",
+    "lastname": "Fatahillah",
+    "totalprice": 316,
+    "depositpaid": false,
+    "checkin": "2025-09-03",
+    "checkout": "2025-09-17",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Qori",
+    "lastname": "Oktavian",
+    "totalprice": 1905,
+    "depositpaid": true,
+    "checkin": "2025-11-26",
+    "checkout": "2025-12-10",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Bambang",
+    "lastname": "Harahap",
+    "totalprice": 1482,
+    "depositpaid": false,
+    "checkin": "2025-09-20",
+    "checkout": "2025-09-24",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Zulfa",
+    "lastname": "Junaedi",
+    "totalprice": 1862,
+    "depositpaid": false,
+    "checkin": "2025-06-06",
+    "checkout": "2025-06-18",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Prima",
+    "lastname": "Rohman",
+    "totalprice": 1481,
+    "depositpaid": true,
+    "checkin": "2025-01-03",
+    "checkout": "2025-01-15",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Irwan",
+    "lastname": "Rohman",
+    "totalprice": 583,
+    "depositpaid": false,
+    "checkin": "2025-05-04",
+    "checkout": "2025-05-15",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Julia",
+    "lastname": "Sanjaya",
+    "totalprice": 565,
+    "depositpaid": false,
+    "checkin": "2025-12-08",
+    "checkout": "2025-12-12",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Galih",
+    "lastname": "Nurrohman",
+    "totalprice": 535,
+    "depositpaid": true,
+    "checkin": "2025-03-05",
+    "checkout": "2025-03-14",
+    "additionalneeds": "Extra Bed"
+  },
+  {
+    "firstname": "Bella",
+    "lastname": "Cahyono",
+    "totalprice": 612,
+    "depositpaid": false,
+    "checkin": "2025-08-02",
+    "checkout": "2025-08-06",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Oki",
+    "lastname": "Rahayu",
+    "totalprice": 1277,
+    "depositpaid": false,
+    "checkin": "2025-09-12",
+    "checkout": "2025-09-18",
+    "additionalneeds": "Non Smoking Room"
+  },
+  {
+    "firstname": "Fitri",
+    "lastname": "Utomo",
+    "totalprice": 1391,
+    "depositpaid": true,
+    "checkin": "2025-05-14",
+    "checkout": "2025-05-17",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Ani",
+    "lastname": "Lestari",
+    "totalprice": 604,
+    "depositpaid": false,
+    "checkin": "2025-06-10",
+    "checkout": "2025-06-22",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Bagas",
+    "lastname": "Harahap",
+    "totalprice": 1458,
+    "depositpaid": false,
+    "checkin": "2025-05-07",
+    "checkout": "2025-05-09",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Rina",
+    "lastname": "Susanto",
+    "totalprice": 719,
+    "depositpaid": true,
+    "checkin": "2025-12-22",
+    "checkout": "2025-12-28",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Cahyo",
+    "lastname": "Triyanto",
+    "totalprice": 929,
+    "depositpaid": false,
+    "checkin": "2025-02-19",
+    "checkout": "2025-02-27",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Fajar",
+    "lastname": "Karo",
+    "totalprice": 1376,
+    "depositpaid": false,
+    "checkin": "2025-09-06",
+    "checkout": "2025-09-09",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Vina",
+    "lastname": "Bangun",
+    "totalprice": 1858,
+    "depositpaid": true,
+    "checkin": "2025-11-12",
+    "checkout": "2025-11-14",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Andi",
+    "lastname": "Hermawan",
+    "totalprice": 1561,
+    "depositpaid": true,
+    "checkin": "2025-05-20",
+    "checkout": "2025-05-28",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Vicky",
+    "lastname": "Kusuma",
+    "totalprice": 1844,
+    "depositpaid": false,
+    "checkin": "2025-02-09",
+    "checkout": "2025-02-13",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Ujang",
+    "lastname": "Hidayat",
+    "totalprice": 349,
+    "depositpaid": true,
+    "checkin": "2025-11-23",
+    "checkout": "2025-11-27",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Fauzan",
+    "lastname": "Harahap",
+    "totalprice": 599,
+    "depositpaid": true,
+    "checkin": "2025-10-25",
+    "checkout": "2025-11-10",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Joko",
+    "lastname": "Lubis",
+    "totalprice": 239,
+    "depositpaid": false,
+    "checkin": "2025-08-17",
+    "checkout": "2025-09-01",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Hendra",
+    "lastname": "Cahyono",
+    "totalprice": 1705,
+    "depositpaid": false,
+    "checkin": "2025-12-20",
+    "checkout": "2026-01-04",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Nando",
+    "lastname": "Yudistira",
+    "totalprice": 1620,
+    "depositpaid": false,
+    "checkin": "2025-09-04",
+    "checkout": "2025-09-11",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Arif",
+    "lastname": "Sitepu",
+    "totalprice": 1249,
+    "depositpaid": false,
+    "checkin": "2025-12-03",
+    "checkout": "2025-12-10",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Nadia",
+    "lastname": "Purba",
+    "totalprice": 1823,
+    "depositpaid": true,
+    "checkin": "2025-01-03",
+    "checkout": "2025-01-14",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Sigit",
+    "lastname": "Kamaludin",
+    "totalprice": 235,
+    "depositpaid": false,
+    "checkin": "2025-08-15",
+    "checkout": "2025-08-17",
+    "additionalneeds": "Laundry Service"
+  },
+  {
+    "firstname": "Okta",
+    "lastname": "Lutfiani",
+    "totalprice": 1318,
+    "depositpaid": false,
+    "checkin": "2025-04-05",
+    "checkout": "2025-04-06",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Ani",
+    "lastname": "Nusantara",
+    "totalprice": 1843,
+    "depositpaid": true,
+    "checkin": "2025-05-16",
+    "checkout": "2025-05-23",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Rangga",
+    "lastname": "Xaverius",
+    "totalprice": 648,
+    "depositpaid": false,
+    "checkin": "2025-03-21",
+    "checkout": "2025-03-22",
+    "additionalneeds": "Sea View Room"
+  },
+  {
+    "firstname": "Oscar",
+    "lastname": "Hidayat",
+    "totalprice": 1945,
+    "depositpaid": true,
+    "checkin": "2025-01-21",
+    "checkout": "2025-02-04",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Erwin",
+    "lastname": "Gunawan",
+    "totalprice": 1348,
+    "depositpaid": false,
+    "checkin": "2025-06-23",
+    "checkout": "2025-07-05",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Nadia",
+    "lastname": "Mahardika",
+    "totalprice": 1223,
+    "depositpaid": false,
+    "checkin": "2025-11-07",
+    "checkout": "2025-11-15",
+    "additionalneeds": "None"
+  },
+  {
+    "firstname": "Ika",
+    "lastname": "Handoyo",
+    "totalprice": 793,
+    "depositpaid": false,
+    "checkin": "2025-03-07",
+    "checkout": "2025-03-13",
+    "additionalneeds": "Airport Transfer"
+  },
+  {
+    "firstname": "Rina",
+    "lastname": "Kamaludin",
+    "totalprice": 1418,
+    "depositpaid": true,
+    "checkin": "2025-05-24",
+    "checkout": "2025-05-26",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Indah",
+    "lastname": "Zulkarnain",
+    "totalprice": 650,
+    "depositpaid": false,
+    "checkin": "2025-09-02",
+    "checkout": "2025-09-07",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Indah",
+    "lastname": "Subagyo",
+    "totalprice": 854,
+    "depositpaid": false,
+    "checkin": "2025-09-07",
+    "checkout": "2025-09-20",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Surya",
+    "lastname": "Setiawan",
+    "totalprice": 411,
+    "depositpaid": true,
+    "checkin": "2025-10-01",
+    "checkout": "2025-10-03",
+    "additionalneeds": "Honeymoon Package"
+  },
+  {
+    "firstname": "Wati",
+    "lastname": "Budiman",
+    "totalprice": 266,
+    "depositpaid": false,
+    "checkin": "2025-05-17",
+    "checkout": "2025-05-27",
+    "additionalneeds": "Parking Space"
+  },
+  {
+    "firstname": "Zahra",
+    "lastname": "Santoso",
+    "totalprice": 192,
+    "depositpaid": true,
+    "checkin": "2025-09-18",
+    "checkout": "2025-09-20",
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Joko",
+    "lastname": "Fatahillah",
+    "totalprice": 1202,
+    "depositpaid": true,
+    "checkin": "2025-03-23",
+    "checkout": "2025-04-04",
+    "additionalneeds": "Early Checkin"
+  },
+  {
+    "firstname": "Irwan",
+    "lastname": "Pramono",
+    "totalprice": 602,
+    "depositpaid": true,
+    "checkin": "2025-10-09",
+    "checkout": "2025-10-21",
+    "additionalneeds": "Baby Cot"
+  },
+  {
+    "firstname": "Tita",
+    "lastname": "Irawan",
+    "totalprice": 783,
+    "depositpaid": true,
+    "checkin": "2025-03-13",
+    "checkout": "2025-03-25",
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "Yanti",
+    "lastname": "Sudirman",
+    "totalprice": 1053,
+    "depositpaid": true,
+    "checkin": "2025-09-14",
+    "checkout": "2025-09-25",
+    "additionalneeds": "Dinner"
+  }
+]

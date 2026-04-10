@@ -9,3 +9,11 @@ export const defaultOptions = {
   vus: 10,
   duration: '30s',
 };
+
+export function AUTH_HEADERS(token) {
+  return {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+    'Cookie': `token=${token}`,
+  };
+}

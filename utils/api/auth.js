@@ -1,6 +1,6 @@
 import http from 'k6/http';
 import { check } from 'k6';
-import { BASE_URL } from '../config/options.js';
+import { BASE_URL } from '../../config/options.js';
 
 export function getToken() {
   const res = http.post(
