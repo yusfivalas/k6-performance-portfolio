@@ -1,0 +1,161 @@
+name: K6 Performance Test
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_type:
+        description: 'Pilih jenis test yang ingin dijalankan'
+        required: true
+        default: 'load'
+        type: choice
+        options:
+          - load
+          - stress
+          - spike
+          - all
+
+jobs:
+  # ── Load Test ──────────────────────────────────────────────────────────────
+  load-test:
+    name: Load Test
+    runs-on: ubuntu-latest
+    if: ${{ inputs.test_type == 'load' || inputs.test_type == 'all' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install k6
+        run: |
+          sudo gpg -k
+          sudo gpg --no-default-keyring \
+            --keyring /usr/share/keyrings/k6-archive-keyring.gpg \
+            --keyserver hkeys.openpgp.org \
+            --recv-keys C5AD17C747E3415A3642D57D77C6C491D6AC1D69
+          echo "deb [signed-by=/usr/share/keyrings/k6-archive-keyring.gpg] \
+            https://dl.k6.io/deb stable main" \
+            | sudo tee /etc/apt/sources.list.d/k6.list
+          sudo apt-get update
+          sudo apt-get install k6
+
+      - name: Create report directories
+        run: mkdir -p reports reports/stress reports/soak reports/spike
+
+      - name: Run J1 Browsing
+        run: k6 run scripts/load/j1-browsing.js
+        continue-on-error: true
+
+      - name: Run J2 Create Reservation
+        run: k6 run scripts/load/j2-create-reservation.js
+        continue-on-error: true
+
+      - name: Run J3 Modify Reservation
+        run: k6 run scripts/load/j3-modify-reservation.js
+        continue-on-error: true
+
+      - name: Run J4 Cancel Reservation
+        run: k6 run scripts/load/j4-cancel-reservation.js
+        continue-on-error: true
+
+      - name: Run J5 Admin Manage
+        run: k6 run scripts/load/j5-admin-manage.js
+        continue-on-error: true
+
+      - name: Upload Load Test Reports
+        uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: load-test-reports
+          path: reports/
+
+  # ── Stress Test ────────────────────────────────────────────────────────────
+  stress-test:
+    name: Stress Test
+    runs-on: ubuntu-latest
+    needs: load-test
+    if: ${{ always() && (inputs.test_type == 'stress' || inputs.test_type == 'all') }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install k6
+        run: |
+          sudo gpg -k
+          sudo gpg --no-default-keyring \
+            --keyring /usr/share/keyrings/k6-archive-keyring.gpg \
+            --keyserver hkeys.openpgp.org \
+            --recv-keys C5AD17C747E3415A3642D57D77C6C491D6AC1D69
+          echo "deb [signed-by=/usr/share/keyrings/k6-archive-keyring.gpg] \
+            https://dl.k6.io/deb stable main" \
+            | sudo tee /etc/apt/sources.list.d/k6.list
+          sudo apt-get update
+          sudo apt-get install k6
+
+      - name: Create report directories
+        run: mkdir -p reports/stress
+
+      - name: Run J1 Browsing
+        run: k6 run scripts/stress/j1-browsing.js
+        continue-on-error: true
+
+      - name: Run J2 Create Reservation
+        run: k6 run scripts/stress/j2-create-reservation.js
+        continue-on-error: true
+
+      - name: Run J3 Modify Reservation
+        run: k6 run scripts/stress/j3-modify-reservation.js
+        continue-on-error: true
+
+      - name: Run J4 Cancel Reservation
+        run: k6 run scripts/stress/j4-cancel-reservation.js
+        continue-on-error: true
+
+      - name: Upload Stress Test Reports
+        uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: stress-test-reports
+          path: reports/stress/
+
+  # ── Spike Test ─────────────────────────────────────────────────────────────
+  spike-test:
+    name: Spike Test
+    runs-on: ubuntu-latest
+    needs: stress-test
+    if: ${{ always() && (inputs.test_type == 'spike' || inputs.test_type == 'all') }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install k6
+        run: |
+          sudo gpg -k
+          sudo gpg --no-default-keyring \
+            --keyring /usr/share/keyrings/k6-archive-keyring.gpg \
+            --keyserver hkeys.openpgp.org \
+            --recv-keys C5AD17C747E3415A3642D57D77C6C491D6AC1D69
+          echo "deb [signed-by=/usr/share/keyrings/k6-archive-keyring.gpg] \
+            https://dl.k6.io/deb stable main" \
+            | sudo tee /etc/apt/sources.list.d/k6.list
+          sudo apt-get update
+          sudo apt-get install k6
+
+      - name: Create report directories
+        run: mkdir -p reports/spike
+
+      - name: Run J1 Browsing
+        run: k6 run scripts/spike/j1-browsing.js
+        continue-on-error: true
+
+      - name: Run J2 Create Reservation
+        run: k6 run scripts/spike/j2-create-reservation.js
+        continue-on-error: true
+
+      - name: Upload Spike Test Reports
+        uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: spike-test-reports
+          path: reports/spike/
