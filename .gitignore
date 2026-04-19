@@ -1,4 +1,8 @@
 node_modules/
-reports/*.html
-reports/*.docx
+
+# Reports — ignore output files, keep folder structure
+reports/**/*.html
+reports/**/*.json
+
+# Logs
 *.log

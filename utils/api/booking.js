@@ -25,6 +25,7 @@ function bookingPayload(data) {
 export function getBookingIds() {
   const res = http.get(`${BASE_URL}/booking`, {
     headers: DEFAULT_HEADERS,
+    tags: { name: 'GET /booking' },
   });
 
   check(res, {
@@ -32,11 +33,14 @@ export function getBookingIds() {
     'getBookingIds - has data': (r) => r.json().length > 0,
   });
 
-
   if (res.status !== 200) {
-    console.warn(`getBookingById failed - status: ${res.status}, body: ${res.body}`);
+    console.warn(
+      `getBookingIds failed\n` +
+      `  status       : ${res.status}\n` +
+      `  response body: ${res.body}`
+    );
     return null;
-  };
+  }
 
   return res.json();
 }
@@ -45,6 +49,7 @@ export function getBookingIds() {
 export function getBookingById(bookingId) {
   const res = http.get(`${BASE_URL}/booking/${bookingId}`, {
     headers: DEFAULT_HEADERS,
+    tags: { name: 'GET /booking/:id' },
   });
 
   check(res, {
@@ -54,16 +59,19 @@ export function getBookingById(bookingId) {
   });
 
   if (res.status !== 200) {
-    console.warn(`getBookingById failed - status: ${res.status}, body: ${res.body}`);
+    console.warn(
+      `getBookingById failed\n` +
+      `  status       : ${res.status}\n` +
+      `  response body: ${res.body}`
+    );
     return null;
-  };
+  }
 
   return res.json();
 }
 
 // POST /booking — buat booking baru
 export function createBooking() {
-
   const data = bookingData[Math.floor(Math.random() * bookingData.length)];
   const createBookingPayload = bookingPayload(data);
 
@@ -72,6 +80,7 @@ export function createBooking() {
     createBookingPayload,
     {
       headers: DEFAULT_HEADERS,
+      tags: { name: 'POST /booking' },
     }
   );
 
@@ -81,17 +90,21 @@ export function createBooking() {
   });
 
   if (res.status !== 200) {
-    console.warn(`getBookingById failed - status: ${res.status}, body: ${res.body}`);
+    console.warn(
+      `createBooking failed\n` +
+      `  status       : ${res.status}\n` +
+      `  request body : ${createBookingPayload}\n` +
+      `  response body: ${res.body}`
+    );
     return null;
-  };
+  }
 
   return res.json();
 }
 
+// PUT /booking/:id — update booking
 export function updateBooking(bookingId, token) {
-
   const data = bookingData[Math.floor(Math.random() * bookingData.length)];
-
   const updateBookingPayload = bookingPayload(data);
 
   const res = http.put(
@@ -99,6 +112,7 @@ export function updateBooking(bookingId, token) {
     updateBookingPayload,
     {
       headers: AUTH_HEADERS(token),
+      tags: { name: 'PUT /booking/:id' },
     }
   );
 
@@ -108,35 +122,46 @@ export function updateBooking(bookingId, token) {
     'updateBooking - has lastname': (r) => r.json('lastname') === data.lastname,
   });
 
-
   if (res.status !== 200) {
-    console.warn(`getBookingById failed - status: ${res.status}, body: ${res.body}`);
+    console.warn(
+      `updateBooking failed\n` +
+      `  status       : ${res.status}\n` +
+      `  request body : ${updateBookingPayload}\n` +
+      `  response body: ${res.body}`
+    );
     return null;
-  };
+  }
 
   return res.json();
 }
 
+// DELETE /booking/:id — hapus booking
 export function deleteBooking(bookingId, token) {
   const res = http.del(
     `${BASE_URL}/booking/${bookingId}`,
     null,
     {
       headers: AUTH_HEADERS(token),
+      tags: { name: 'DELETE /booking/:id' },
     }
   );
 
   check(res, {
     'deleteBooking - status 201': (r) => r.status === 201,
   });
-  
+
+  if (res.status !== 201) {
+    console.warn(
+      `deleteBooking failed\n` +
+      `  status       : ${res.status}\n` +
+      `  response body: ${res.body}`
+    );
+  }
 }
 
+// PATCH /booking/:id — update booking sebagian
 export function updateBookingPartially(bookingId, token) {
-  
   const data = bookingData[Math.floor(Math.random() * bookingData.length)];
-
-
   const updateBookingPayload = JSON.stringify({
     firstname: data.firstname,
     lastname: data.lastname,
@@ -147,6 +172,7 @@ export function updateBookingPartially(bookingId, token) {
     updateBookingPayload,
     {
       headers: AUTH_HEADERS(token),
+      tags: { name: 'PATCH /booking/:id' },
     }
   );
 
@@ -156,11 +182,15 @@ export function updateBookingPartially(bookingId, token) {
     'updateBookingPartially - has lastname': (r) => r.json('lastname') === data.lastname,
   });
 
-
   if (res.status !== 200) {
-    console.warn(`getBookingById failed - status: ${res.status}, body: ${res.body}`);
+    console.warn(
+      `updateBookingPartially failed\n` +
+      `  status       : ${res.status}\n` +
+      `  request body : ${updateBookingPayload}\n` +
+      `  response body: ${res.body}`
+    );
     return null;
-  };
+  }
 
   return res.json();
 }
